@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Nunito', 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #f8faff;
+  color: #1e293b;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom cute soft gradients & shadows */
+.bg-gradient-hero {
+  background: linear-gradient(135deg, #e0e7ff 0%, #f3e8ff 50%, #ffe4e6 100%);
+}
+
+.bg-gradient-brand {
+  background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #f43f5e 100%);
+}
+
+.bg-gradient-card-lavender {
+  background: linear-gradient(135deg, #ffffff 0%, #f5f3ff 100%);
+}
+
+.bg-gradient-card-cyan {
+  background: linear-gradient(135deg, #ffffff 0%, #ecfeff 100%);
+}
+
+.bg-gradient-card-mint {
+  background: linear-gradient(135deg, #ffffff 0%, #ecfdf5 100%);
+}
+
+.bg-gradient-card-amber {
+  background: linear-gradient(135deg, #ffffff 0%, #fffbeb 100%);
+}
+
+.bg-gradient-card-coral {
+  background: linear-gradient(135deg, #ffffff 0%, #fff1f2 100%);
+}
+
+.shadow-soft {
+  box-shadow: 0 10px 25px -5px rgba(139, 92, 246, 0.08), 0 8px 10px -6px rgba(59, 130, 246, 0.05);
+}
+
+.shadow-card-hover {
+  box-shadow: 0 20px 30px -10px rgba(139, 92, 246, 0.15), 0 10px 15px -5px rgba(244, 63, 94, 0.08);
+}
+

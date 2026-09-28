@@ -1,0 +1,2297 @@
+{
+  "admins": [
+    {
+      "id": "admin-coanna",
+      "username": "coanna",
+      "displayName": "CÔ AN NA",
+      "passwordHash": "$2b$10$W.fXAIFbRuVXvmIteLFQuOD18OcLSblHrQphnDs5HOOd2sHr8CBZC",
+      "role": "admin",
+      "createdAt": "2026-09-18T14:58:04.091Z"
+    }
+  ],
+  "classes": [
+    {
+      "id": "c-6a8",
+      "code": "6A8",
+      "name": "Lớp 6A8",
+      "color": "border-purple-300 bg-purple-50 text-purple-700"
+    },
+    {
+      "id": "c-6a9",
+      "code": "6A9",
+      "name": "Lớp 6A9",
+      "color": "border-blue-300 bg-blue-50 text-blue-700"
+    },
+    {
+      "id": "c-6a10",
+      "code": "6A10",
+      "name": "Lớp 6A10",
+      "color": "border-cyan-300 bg-cyan-50 text-cyan-700"
+    },
+    {
+      "id": "c-6a11",
+      "code": "6A11",
+      "name": "Lớp 6A11",
+      "color": "border-emerald-300 bg-emerald-50 text-emerald-700"
+    },
+    {
+      "id": "c-6a12",
+      "code": "6A12",
+      "name": "Lớp 6A12",
+      "color": "border-amber-300 bg-amber-50 text-amber-700"
+    }
+  ],
+  "students": [],
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "lessonNumber": 1,
+      "title": "Tự hào về truyền thống gia đình, dòng họ",
+      "description": "Tìm hiểu và gìn giữ những nét đẹp văn hóa, nghề truyền thống và tinh thần hiếu học của dòng họ.",
+      "icon": "🏠",
+      "color": "from-purple-500 to-indigo-600"
+    },
+    {
+      "id": "lesson-2",
+      "lessonNumber": 2,
+      "title": "Yêu thương con người",
+      "description": "Biết quan tâm, giúp đỡ, sẻ chia với những người xung quanh lúc khó khăn, hoạn nạn.",
+      "icon": "💖",
+      "color": "from-rose-500 to-pink-600"
+    },
+    {
+      "id": "lesson-3",
+      "lessonNumber": 3,
+      "title": "Siêng năng, kiên trì",
+      "description": "Hình thành thói quen rèn luyện, không ngại khó khăn để vươn lên đạt thành tích tốt trong học tập.",
+      "icon": "🌱",
+      "color": "from-emerald-500 to-teal-600"
+    },
+    {
+      "id": "lesson-4",
+      "lessonNumber": 4,
+      "title": "Tôn trọng sự thật",
+      "description": "Luôn trung thực, thẳng thắn, dũng cảm nhận lỗi và bảo vệ lẽ phải trong cuộc sống.",
+      "icon": "⚖️",
+      "color": "from-blue-500 to-cyan-600"
+    },
+    {
+      "id": "lesson-5",
+      "lessonNumber": 5,
+      "title": "Tự lập",
+      "description": "Chủ động làm việc của mình, không ỷ lại hay trông chờ vào người khác.",
+      "icon": "🎒",
+      "color": "from-amber-500 to-orange-600"
+    },
+    {
+      "id": "lesson-6",
+      "lessonNumber": 6,
+      "title": "Tự nhận thức bản thân",
+      "description": "Nhận biết điểm mạnh, điểm yếu của bản thân để không ngừng rèn luyện và hoàn thiện mình.",
+      "icon": "🪞",
+      "color": "from-violet-500 to-purple-600"
+    },
+    {
+      "id": "lesson-7",
+      "lessonNumber": 7,
+      "title": "Ứng phó với tình huống nguy hiểm",
+      "description": "Kỹ năng thoát hiểm khi gặp hỏa hoạn, đuối nước, thiên tai và phòng ngừa bắt cóc.",
+      "icon": "🛡️",
+      "color": "from-red-500 to-rose-600"
+    },
+    {
+      "id": "lesson-8",
+      "lessonNumber": 8,
+      "title": "Tiết kiệm",
+      "description": "Sử dụng hợp lý thời gian, tiền của, sức lực và nguồn tài nguyên thiên nhiên.",
+      "icon": "🪙",
+      "color": "from-yellow-500 to-amber-600"
+    },
+    {
+      "id": "lesson-9",
+      "lessonNumber": 9,
+      "title": "Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "description": "Hiểu thế nào là công dân Việt Nam, căn cứ xác định công dân và lòng tự hào dân tộc.",
+      "icon": "⭐",
+      "color": "from-red-600 to-amber-500"
+    },
+    {
+      "id": "lesson-10",
+      "lessonNumber": 10,
+      "title": "Quyền và nghĩa vụ cơ bản của công dân",
+      "description": "Nắm rõ các quyền chính trị, dân sự, kinh tế, văn hóa - xã hội và nghĩa vụ tôn trọng pháp luật.",
+      "icon": "📜",
+      "color": "from-sky-500 to-indigo-600"
+    },
+    {
+      "id": "lesson-11",
+      "lessonNumber": 11,
+      "title": "Quyền cơ bản của trẻ em",
+      "description": "Nhóm quyền sống còn, quyền bảo vệ, quyền phát triển và quyền tham gia của trẻ em.",
+      "icon": "🧸",
+      "color": "from-teal-500 to-emerald-600"
+    },
+    {
+      "id": "lesson-12",
+      "lessonNumber": 12,
+      "title": "Thực hiện quyền trẻ em",
+      "description": "Trách nhiệm của gia đình, nhà trường, xã hội và bản thân học sinh trong việc thực hiện quyền trẻ em.",
+      "icon": "🤝",
+      "color": "from-pink-500 to-purple-600"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "asg-b1",
+      "lessonId": "lesson-1",
+      "code": "CD6-B1",
+      "title": "🌳✨ Phiếu học tập thông minh: Tự hào về truyền thống gia đình, dòng họ",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 1
+    },
+    {
+      "id": "asg-b2",
+      "lessonId": "lesson-2",
+      "code": "CD6-B2",
+      "title": "❤️✨ Phiếu học tập thông minh: Yêu thương con người",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 2
+    },
+    {
+      "id": "asg-b3",
+      "lessonId": "lesson-3",
+      "code": "CD6-B3",
+      "title": "🚀✨ Phiếu học tập thông minh: Siêng năng, kiên trì",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": true,
+      "isDeleted": false,
+      "order": 3
+    },
+    {
+      "id": "asg-b4",
+      "lessonId": "lesson-4",
+      "code": "CD6-B4",
+      "title": "🔎✨ Phiếu học tập thông minh: Tôn trọng sự thật",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 4
+    },
+    {
+      "id": "asg-b5",
+      "lessonId": "lesson-5",
+      "code": "CD6-B5",
+      "title": "🚀✨ Phiếu học tập thông minh: Tự lập",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 5
+    },
+    {
+      "id": "asg-b6",
+      "lessonId": "lesson-6",
+      "code": "CD6-B6",
+      "title": "🪞✨ Phiếu học tập thông minh: Tự nhận thức bản thân",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 6
+    },
+    {
+      "id": "asg-b7",
+      "lessonId": "lesson-7",
+      "code": "CD6-B7",
+      "title": "🛡️✨ Phiếu học tập thông minh: Ứng phó với tình huống nguy hiểm",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 7
+    },
+    {
+      "id": "asg-b8",
+      "lessonId": "lesson-8",
+      "code": "CD6-B8",
+      "title": "💰🌱 Phiếu học tập thông minh: Tiết kiệm",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 8
+    },
+    {
+      "id": "asg-b9",
+      "lessonId": "lesson-9",
+      "code": "CD6-B9",
+      "title": "🇻🇳✨ Phiếu học tập thông minh: Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 9
+    },
+    {
+      "id": "asg-b10",
+      "lessonId": "lesson-10",
+      "code": "CD6-B10",
+      "title": "⚖️✨ Phiếu học tập thông minh: Quyền và nghĩa vụ cơ bản của công dân",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 10
+    },
+    {
+      "id": "asg-b11",
+      "lessonId": "lesson-11",
+      "code": "CD6-B11",
+      "title": "🧒🌈 Phiếu học tập thông minh: Quyền cơ bản của trẻ em",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 11
+    },
+    {
+      "id": "asg-b12",
+      "lessonId": "lesson-12",
+      "code": "CD6-B12",
+      "title": "🛡️🌈 Phiếu học tập thông minh: Thực hiện quyền trẻ em",
+      "type": "phiếu_củng_cố",
+      "durationMinutes": 15,
+      "dueDate": "2026-12-31",
+      "isLocked": false,
+      "isDeleted": false,
+      "order": 12
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-b1-1",
+      "assignmentId": "asg-b1",
+      "order": 1,
+      "taskName": "🔎 NHIỆM VỤ 1 — SĂN TÌM “HẠT GIỐNG ĐẸP”",
+      "points": 10,
+      "content": "Chọn 5 giá trị có thể trở thành truyền thống tốt đẹp của gia đình, dòng họ:\n\n☐ 📚 Hiếu học\n☐ 💰 Khoe sự giàu có\n☐ ❤️ Hiếu thảo\n☐ 💪 Cần cù lao động\n☐ 😎 Hơn thua với người khác\n☐ 🤝 Yêu thương con người\n☐ 🧵 Giữ gìn nghề truyền thống\n☐ 🙄 Coi thường gia đình khác",
+      "options": {
+        "A": "📚 Hiếu học, ❤️ Hiếu thảo, 💪 Cần cù lao động, 🤝 Yêu thương con người, 🧵 Giữ gìn nghề truyền thống",
+        "B": "💰 Khoe sự giàu có, 😎 Hơn thua với người khác, 🙄 Coi thường gia đình khác, 📚 Hiếu học, 💪 Cần cù lao động",
+        "C": "📚 Hiếu học, 💰 Khoe sự giàu có, ❤️ Hiếu thảo, 🤝 Yêu thương con người, 😎 Hơn thua với người khác",
+        "D": "🧵 Giữ gìn nghề truyền thống, 🙄 Coi thường gia đình khác, 💪 Cần cù lao động, ❤️ Hiếu thảo, 💰 Khoe sự giàu có"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng (1, 3, 4, 6, 7): Hiếu học; Hiếu thảo; Cần cù lao động; Yêu thương con người; Giữ gìn nghề truyền thống. (Không chọn: Khoe sự giàu có; Hơn thua với người khác; Coi thường gia đình khác vì đây là những thói xấu)."
+    },
+    {
+      "id": "q-b1-2",
+      "assignmentId": "asg-b1",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ “GIỮ LỬA HAY LÀM TẮT LỬA?”",
+      "points": 15,
+      "content": "Kéo mỗi hành động vào đúng ngôi nhà:\n\n🔥 GIỮ GÌN – PHÁT HUY  |  🌧️ CHƯA PHÙ HỢP\n\nCác thẻ:\n(1) 📖 Tìm hiểu câu chuyện tốt đẹp của ông bà, cha mẹ.\n(2) 🙈 Giấu nghề truyền thống của gia đình vì sợ bạn chê.\n(3) 🎨 Học thêm cách mới để sản phẩm nghề gia đình đẹp và hữu ích hơn.\n(4) ❤️ Quan tâm, kính trọng ông bà, cha mẹ.\n(5) 🏆 Chỉ khoe thành tích của người thân để chứng tỏ gia đình mình hơn người.\n(6) 📚 Cố gắng học tập để tiếp nối truyền thống hiếu học.",
+      "options": {
+        "A": "🔥 Giữ gìn – phát huy: (1, 3, 4, 6)  ·  🌧️ Chưa phù hợp: (2, 5)",
+        "B": "🔥 Giữ gìn – phát huy: (1, 2, 4)  ·  🌧️ Chưa phù hợp: (3, 5, 6)",
+        "C": "🔥 Giữ gìn – phát huy: (2, 5)  ·  🌧️ Chưa phù hợp: (1, 3, 4, 6)",
+        "D": "🔥 Giữ gìn – phát huy: (3, 5, 6)  ·  🌧️ Chưa phù hợp: (1, 2, 4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ 🔥 Giữ gìn – phát huy (1, 3, 4, 6): Tìm hiểu câu chuyện gia đình; học cách mới hữu ích; quan tâm kính trọng ông bà cha mẹ; cố gắng học tập. 🌧️ Chưa phù hợp (2, 5): Giấu nghề gia đình; chỉ khoe thành tích người thân để chứng tỏ hơn người."
+    },
+    {
+      "id": "q-b1-3",
+      "assignmentId": "asg-b1",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI “VIỆC LÀM ↔ TRUYỀN THỐNG”",
+      "points": 10,
+      "content": "Nối mỗi hành động với truyền thống phù hợp nhất:\n\nA. Tự giác học và cố gắng tiến bộ.\nB. Quan tâm, chăm sóc ông bà khi mệt.\nC. Không ngại khó, hoàn thành công việc được giao.\nD. Học cách làm sản phẩm thủ công của gia đình.\n\n↔️\n\n① Cần cù lao động\n② Hiếu thảo\n③ Giữ nghề truyền thống\n④ Hiếu học\n\n(A → .....  B → .....  C → .....  D → .....)",
+      "options": {
+        "A": "A → ④ (Hiếu học) · B → ② (Hiếu thảo) · C → ① (Cần cù lao động) · D → ③ (Giữ nghề truyền thống)",
+        "B": "A → ② (Hiếu thảo) · B → ④ (Hiếu học) · C → ③ (Giữ nghề truyền thống) · D → ① (Cần cù lao động)",
+        "C": "A → ① (Cần cù lao động) · B → ② (Hiếu thảo) · C → ④ (Hiếu học) · D → ③ (Giữ nghề truyền thống)",
+        "D": "A → ③ (Giữ nghề truyền thống) · B → ① (Cần cù lao động) · C → ② (Hiếu thảo) · D → ④ (Hiếu học)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối đúng: A–4 (Tự giác học → Hiếu học); B–2 (Chăm sóc ông bà → Hiếu thảo); C–1 (Không ngại khó → Cần cù lao động); D–3 (Làm đồ thủ công → Giữ nghề truyền thống)."
+    },
+    {
+      "id": "q-b1-4",
+      "assignmentId": "asg-b1",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — MỞ “KHO BÁU TRUYỀN THỐNG”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng chỗ:\n(TỰ HÀO · TRUYỀN THỐNG · KINH NGHIỆM · SỨC MẠNH)\n\n\"Hiểu biết và __________ về __________ gia đình, dòng họ giúp chúng ta có thêm __________ và __________ trong cuộc sống.\"\n\n🔐 Mật mã: BIẾT GỐC RỄ → CÓ ĐIỂM TỰA → TỰ TIN TIẾN LÊN",
+      "options": {
+        "A": "TỰ HÀO → TRUYỀN THỐNG → KINH NGHIỆM → SỨC MẠNH",
+        "B": "TRUYỀN THỐNG → TỰ HÀO → SỨC MẠNH → KINH NGHIỆM",
+        "C": "SỨC MẠNH → KINH NGHIỆM → TRUYỀN THỐNG → TỰ HÀO",
+        "D": "TỰ HÀO → SỨC MẠNH → TRUYỀN THỐNG → KINH NGHIỆM"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Câu hoàn chỉnh: \"Hiểu biết và tự hào về truyền thống gia đình, dòng họ giúp chúng ta có thêm kinh nghiệm và sức mạnh trong cuộc sống.\""
+    },
+    {
+      "id": "q-b1-5",
+      "assignmentId": "asg-b1",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI? 🧨 “BẪY TƯ DUY”",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Chỉ gia đình nổi tiếng hoặc giàu có mới có truyền thống đáng tự hào.\n② Tự hào về truyền thống cần được thể hiện bằng những việc làm phù hợp.\n③ Học hỏi những điều tốt đẹp từ thế hệ trước là một cách tiếp nối truyền thống.\n④ Giữ gìn truyền thống nghĩa là phải làm mọi thứ giống hệt thế hệ trước, không được sáng tạo.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ ① Sai (Mọi gia đình đều có nét đẹp truyền thống đáng tự hào, không phân biệt giàu nghèo hay nổi tiếng); ② Đúng; ③ Đúng; ④ Sai (Giữ gìn truyền thống luôn cần sáng tạo, đổi mới để phù hợp với thời đại)."
+    },
+    {
+      "id": "q-b1-6",
+      "assignmentId": "asg-b1",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn cùng nói về truyền thống gia đình:\n\n🌱 Vy: “Mình muốn hỏi ông bà để hiểu thêm những điều tốt đẹp của gia đình.”\n📚 Khôi: “Gia đình có truyền thống hiếu học nên mình sẽ cố gắng học bằng chính khả năng của mình.”\n🚀 Hà: “Mình muốn học nghề của gia đình và thử những cách mới để nghề ấy phù hợp hơn với cuộc sống.”\n😎 Tuấn: “Tự hào nghĩa là phải chứng minh gia đình mình giỏi hơn gia đình người khác.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "Tuấn: “Tự hào nghĩa là phải chứng minh gia đình mình giỏi hơn gia đình người khác.”",
+        "B": "Vy: “Mình muốn hỏi ông bà để hiểu thêm những điều tốt đẹp của gia đình.”",
+        "C": "Khôi: “Gia đình có truyền thống hiếu học nên mình sẽ cố gắng học bằng chính khả năng của mình.”",
+        "D": "Hà: “Mình muốn học nghề của gia đình và thử những cách mới để nghề ấy phù hợp hơn với cuộc sống.”"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Tuấn. Tự hào về gia đình không phải là hơn thua hay tự cao coi thường người khác."
+    },
+    {
+      "id": "q-b1-7",
+      "assignmentId": "asg-b1",
+      "order": 7,
+      "taskName": "🪜 NHIỆM VỤ 7 — XÂY “CẦU NỐI THẾ HỆ”",
+      "points": 10,
+      "content": "Sắp xếp 4 thẻ thành hành trình hợp lí:\n(PHÁT HUY · TÌM HIỂU · GIỮ GÌN · TỰ HÀO)\n\n① __________ ⬇️ ② __________ ⬇️ ③ __________ ⬇️ ④ __________ 🚀",
+      "options": {
+        "A": "① TÌM HIỂU → ② TỰ HÀO → ③ GIỮ GÌN → ④ PHÁT HUY 🚀",
+        "B": "① TỰ HÀO → ② TÌM HIỂU → ③ PHÁT HUY → ④ GIỮ GÌN 🚀",
+        "C": "① GIỮ GÌN → ② TÌM HIỂU → ③ TỰ HÀO → ④ PHÁT HUY 🚀",
+        "D": "① PHÁT HUY → ② GIỮ GÌN → ③ TỰ HÀO → ④ TÌM HIỂU 🚀"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Thứ tự hành trình chuẩn: TÌM HIỂU → TỰ HÀO → GIỮ GÌN → PHÁT HUY."
+    },
+    {
+      "id": "q-b1-8",
+      "assignmentId": "asg-b1",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 🎭 “TRUYỀN THỐNG CŨ – CÁCH LÀM MỚI?”",
+      "points": 15,
+      "content": "Gia đình Mai nhiều thế hệ làm một nghề thủ công. Mai rất trân trọng nghề của gia đình nhưng nhận thấy một số sản phẩm hiện nay ít được người trẻ quan tâm.\n\n💡 Theo em, Mai nên làm gì?",
+      "options": {
+        "A": "Bỏ nghề vì cái gì cũ cũng không còn giá trị.",
+        "B": "Giữ nguyên mọi cách làm cũ, tuyệt đối không thay đổi.",
+        "C": "Tìm hiểu giá trị của nghề, học những kĩ năng phù hợp và thử cách giới thiệu/sáng tạo mới để góp phần phát huy truyền thống.",
+        "D": "Chê những người không thích sản phẩm của gia đình mình."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Đáp án: C. Mai vừa trân trọng giá trị truyền thống, vừa chủ động tìm cách tiếp nối và phát huy phù hợp với cuộc sống hiện nay. (GIỮ GÌN ≠ ĐÓNG BĂNG; PHÁT HUY = TRÂN TRỌNG GIÁ TRỊ TỐT ĐẸP + TIẾP NỐI PHÙ HỢP)."
+    },
+    {
+      "id": "q-b2-1",
+      "assignmentId": "asg-b2",
+      "order": 1,
+      "taskName": "🎮 NHIỆM VỤ 1 — AI ĐANG “TRAO YÊU THƯƠNG”?",
+      "points": 10,
+      "content": "Chọn tất cả hành động thể hiện tình yêu thương con người:\n\n(1) Thấy bạn nghỉ học vì ốm, nhắn hỏi thăm và gửi bài cho bạn.\n(2) Thấy bạn bị ngã nhưng bỏ đi vì “không liên quan đến mình”.\n(3) Chủ động giúp một bạn mới chuyển trường làm quen với lớp.\n(4) Cười khi thấy bạn trả lời sai.\n(5) Nhường chỗ cho người lớn tuổi khi cần.\n(6) Chỉ giúp người khác khi chắc chắn mình sẽ được trả ơn.",
+      "options": {
+        "A": "(1), (3), (5) — Nhắn hỏi thăm bạn ốm; Giúp bạn mới chuyển trường; Nhường chỗ cho người lớn tuổi",
+        "B": "(1), (2), (4) — Nhắn hỏi bạn ốm; Bỏ đi khi bạn ngã; Cười khi bạn trả lời sai",
+        "C": "(2), (4), (6) — Bỏ đi khi bạn ngã; Cười khi bạn trả lời sai; Chỉ giúp khi được trả ơn",
+        "D": "(3), (5), (6) — Giúp bạn mới; Nhường chỗ; Chỉ giúp khi được trả ơn"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (5). Tình yêu thương con người xuất phát từ tấm lòng chân thành, không vụ lợi; biết quan tâm, giúp đỡ người gặp khó khăn và tôn trọng người xung quanh. Các hành động (2), (4), (6) là vô cảm, chế giễu hoặc tính toán ích kỉ."
+    },
+    {
+      "id": "q-b2-2",
+      "assignmentId": "asg-b2",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ “3 MẢNH GHÉP YÊU THƯƠNG”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào đúng nhóm biểu hiện của tình yêu thương:\n\n💬 LỜI NÓI  |  🤝 VIỆC LÀM  |  ❤️ THÁI ĐỘ\n\nCác thẻ:\n(1) “Mình có thể giúp bạn nhé!”\n(2) Chia sẻ đồ dùng học tập với bạn đang cần\n(3) Biết cảm thông khi người khác gặp chuyện buồn\n(4) “Cố lên, mình tin bạn làm được!”\n(5) Giúp bố mẹ việc nhà khi bố mẹ bận\n(6) Không chế giễu khuyết điểm của người khác\n\n💡 Kiến thức SGK: Biểu hiện của tình yêu thương qua sự đồng cảm, chia sẻ, sẵn sàng giúp đỡ và hành động phù hợp.",
+      "options": {
+        "A": "💬 Lời nói: (1, 4) · 🤝 Việc làm: (2, 5) · ❤️ Thái độ: (3, 6)",
+        "B": "💬 Lời nói: (2, 5) · 🤝 Việc làm: (1, 4) · ❤️ Thái độ: (3, 6)",
+        "C": "💬 Lời nói: (1, 4) · 🤝 Việc làm: (3, 6) · ❤️ Thái độ: (2, 5)",
+        "D": "💬 Lời nói: (3, 6) · 🤝 Việc làm: (2, 5) · ❤️ Thái độ: (1, 4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chính xác theo SGK:\n- 💬 Lời nói: “Mình có thể giúp bạn nhé!”; “Cố lên, mình tin bạn làm được!”\n- 🤝 Việc làm: Chia sẻ đồ dùng học tập với bạn đang cần; Giúp bố mẹ việc nhà khi bố mẹ bận.\n- ❤️ Thái độ: Biết cảm thông khi người khác gặp chuyện buồn; Không chế giễu khuyết điểm của người khác."
+    },
+    {
+      "id": "q-b2-3",
+      "assignmentId": "asg-b2",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI TRÁI TIM",
+      "points": 15,
+      "content": "Nối mỗi tình huống với phẩm chất/mảnh ghép phù hợp nhất:\n\nTình huống:\nA. Lắng nghe khi bạn đang buồn\nB. Góp sách cho học sinh khó khăn\nC. Cho bạn cơ hội sửa lỗi\nD. Giúp người bị ngã đứng dậy\n\n↔️ Mảnh ghép:\n① Sẵn sàng giúp đỡ\n② Tha thứ\n③ Đồng cảm\n④ Chia sẻ\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ③ (Đồng cảm) · B → ④ (Chia sẻ) · C → ② (Tha thứ) · D → ① (Sẵn sàng giúp đỡ)",
+        "B": "A → ① (Sẵn sàng giúp đỡ) · B → ③ (Đồng cảm) · C → ④ (Chia sẻ) · D → ② (Tha thứ)",
+        "C": "A → ④ (Chia sẻ) · B → ② (Tha thứ) · C → ① (Sẵn sàng giúp đỡ) · D → ③ (Đồng cảm)",
+        "D": "A → ② (Tha thứ) · B → ① (Sẵn sàng giúp đỡ) · C → ③ (Đồng cảm) · D → ④ (Chia sẻ)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–3, B–4, C–2, D–1:\n- A → ③: Lắng nghe khi bạn buồn = Đồng cảm.\n- B → ④: Góp sách cho bạn khó khăn = Chia sẻ.\n- C → ②: Cho bạn cơ hội sửa lỗi = Tha thứ.\n- D → ①: Giúp người bị ngã đứng dậy = Sẵn sàng giúp đỡ."
+    },
+    {
+      "id": "q-b2-4",
+      "assignmentId": "asg-b2",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — GIẢI MÃ TRÁI TIM",
+      "points": 15,
+      "content": "Điền 4 từ khóa vào đúng vị trí:\n(QUAN TÂM • GIÚP ĐỠ • TỐT ĐẸP • KHÓ KHĂN)\n\n\"Yêu thương con người là sự __________ (1), __________ (2) và làm những điều __________ (3) cho người khác, nhất là khi họ gặp __________ (4), hoạn nạn.\"\n\n🔐 Trọng tâm ghi nhớ: Yêu thương con người là quan tâm, giúp đỡ, làm điều tốt đẹp cho người khác, nhất là khi hoạn nạn.",
+      "options": {
+        "A": "QUAN TÂM → GIÚP ĐỠ → TỐT ĐẸP → KHÓ KHĂN",
+        "B": "GIÚP ĐỠ → QUAN TÂM → KHÓ KHĂN → TỐT ĐẸP",
+        "C": "TỐT ĐẸP → KHÓ KHĂN → QUAN TÂM → GIÚP ĐỠ",
+        "D": "QUAN TÂM → TỐT ĐẸP → GIÚP ĐỠ → KHÓ KHĂN"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Câu hoàn chỉnh: \"Yêu thương con người là sự QUAN TÂM, GIÚP ĐỠ và làm những điều TỐT ĐẸP cho người khác, nhất là khi họ gặp KHÓ KHĂN, hoạn nạn.\""
+    },
+    {
+      "id": "q-b2-5",
+      "assignmentId": "asg-b2",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI?",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Yêu thương con người chỉ thể hiện bằng việc cho tiền hoặc quà.\n② Một lời hỏi thăm chân thành cũng có thể thể hiện sự yêu thương.\n③ Chúng ta chỉ cần quan tâm đến những người quen biết.\n④ Biết cảm thông, chia sẻ và giúp đỡ người khác là biểu hiện của yêu thương con người.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ ĐÚNG 👍",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ ĐÚNG 👍"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Sai – Đúng.\n- ① Sai: Yêu thương con người không giới hạn ở tiền hay quà vật chất.\n- ② Đúng: Một lời hỏi thăm, động viên chân thành rất quý giá.\n- ③ Sai: Cần mở rộng lòng yêu thương tới mọi người trong cộng đồng.\n- ④ Đúng: Cảm thông, chia sẻ, giúp đỡ là cốt lõi của yêu thương con người."
+    },
+    {
+      "id": "q-b2-6",
+      "assignmentId": "asg-b2",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — THÁM TỬ TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn đang cùng chia sẻ quan điểm về yêu thương con người:\n\n❤️ An: “Bạn buồn thì mình có thể lắng nghe.”\n🤝 Mai: “Giúp người khác nên phù hợp với khả năng của mình.”\n🌱 Minh: “Một việc nhỏ nhưng đúng lúc cũng có thể rất ý nghĩa.”\n🎁 Nam: “Phải tặng món quà có giá trị thì mới gọi là yêu thương.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Bạn buồn thì mình có thể lắng nghe.”",
+        "B": "Mai: “Giúp người khác nên phù hợp với khả năng của mình.”",
+        "C": "Minh: “Một việc nhỏ nhưng đúng lúc cũng có thể rất ý nghĩa.”",
+        "D": "Nam: “Phải tặng món quà có giá trị thì mới gọi là yêu thương.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Suy nghĩ của Nam chưa hợp lí vì tình yêu thương bắt nguồn từ tấm lòng chân thành và sự quan tâm, không phụ thuộc vào giá trị vật chất hay tiền bạc của món quà."
+    },
+    {
+      "id": "q-b2-7",
+      "assignmentId": "asg-b2",
+      "order": 7,
+      "taskName": "🌈 NHIỆM VỤ 7 — YÊU THƯƠNG TẠO RA ĐIỀU GÌ?",
+      "points": 10,
+      "content": "Kéo các thẻ vào đúng vùng:\n\n❤️ GIÁ TRỊ CỦA YÊU THƯƠNG  |  ⚫ KHÔNG PHẢI GIÁ TRỊ CỦA YÊU THƯƠNG\n\nCác thẻ:\n(1) Gắn kết mọi người\n(2) Mang lại niềm vui\n(3) Tiếp thêm sức mạnh\n(4) Lan tỏa điều tốt đẹp\n(5) Giúp mình hơn người khác\n(6) Luôn nhận được lợi ích vật chất\n\n💡 SGK: Tình yêu thương giúp con người có thêm sức mạnh, cuộc sống tràn ngập niềm vui và gắn kết xã hội.",
+      "options": {
+        "A": "❤️ Giá trị của yêu thương: (1, 2, 3, 4)  ·  ⚫ Không phải: (5, 6)",
+        "B": "❤️ Giá trị của yêu thương: (1, 3, 5)  ·  ⚫ Không phải: (2, 4, 6)",
+        "C": "❤️ Giá trị của yêu thương: (2, 4, 6)  ·  ⚫ Không phải: (1, 3, 5)",
+        "D": "❤️ Giá trị của yêu thương: (3, 4, 5, 6)  ·  ⚫ Không phải: (1, 2)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân vùng chính xác:\n- ❤️ Giá trị của yêu thương (1, 2, 3, 4): Gắn kết mọi người, mang lại niềm vui, tiếp thêm sức mạnh, lan tỏa điều tốt đẹp.\n- ⚫ Không phải (5, 6): Giúp mình hơn người khác, luôn nhận được lợi ích vật chất (đây là thái độ kiêu ngạo và tính toán cá nhân)."
+    },
+    {
+      "id": "q-b2-8",
+      "assignmentId": "asg-b2",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 🎭 NẾU LÀ EM...",
+      "points": 10,
+      "content": "Một bạn trong lớp thường ngồi một mình vì mới chuyển trường. Trong giờ ra chơi, vài bạn nói: “Bạn ấy ít nói lắm, thôi kệ đi!”\n\n💡 Nếu là em, em sẽ chọn cách ứng xử nào?\n\n🔐 THỬ THÁCH TRÍ NHỚ 20 GIÂY:\n❤️ YÊU THƯƠNG CON NGƯỜI\nQUAN TÂM ⬇️ ĐỒNG CẢM – CHIA SẺ ⬇️ GIÚP ĐỠ – LÀM ĐIỀU TỐT ĐẸP ⬇️ 🌱 LAN TỎA YÊU THƯƠNG\nYêu thương không nhất thiết bắt đầu từ việc lớn. Một lời nói tử tế, một sự quan tâm và một hành động đúng lúc cũng có thể mang lại điều tốt đẹp.",
+      "options": {
+        "A": "Không quan tâm vì mình chưa quen bạn.",
+        "B": "Đứng nhìn xem có bạn nào khác đến nói chuyện không.",
+        "C": "Chủ động chào hỏi, rủ bạn cùng tham gia hoạt động và giúp bạn làm quen với lớp.",
+        "D": "Chụp ảnh bạn rồi đăng lên nhóm lớp để mọi người chú ý."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn đúng: C — Chủ động chào hỏi, rủ bạn cùng tham gia hoạt động và giúp bạn làm quen với lớp. Đây là hành vi yêu thương, quan tâm chủ động, giúp bạn vượt qua sự bỡ ngỡ để hòa nhập vào tập thể lớp."
+    },
+    {
+      "id": "q-b3-1",
+      "assignmentId": "asg-b3",
+      "order": 1,
+      "taskName": "⚡ NHIỆM VỤ 1 — AI ĐANG THỰC SỰ CỐ GẮNG?",
+      "points": 10,
+      "content": "Chọn 3 hành động thể hiện siêng năng, kiên trì:\n\n(1) 📚 Mỗi ngày Nam dành 20 phút ôn lại bài.\n(2) 🎸 Vy tập đàn hai hôm, thấy khó nên bỏ.\n(3) 🏃 Minh duy trì chạy bộ theo kế hoạch mỗi sáng.\n(4) 🧮 Hà làm mãi chưa ra bài toán nên xem ngay đáp án.\n(5) ✍️ Chữ chưa đẹp, An luyện thêm từng ngày.\n(6) 🎮 Tuấn chỉ học khi bố mẹ nhắc.",
+      "options": {
+        "A": "(1), (3), (5) — 📚 Nam (ôn bài 20p mỗi ngày) · 🏃 Minh (chạy bộ theo kế hoạch) · ✍️ An (luyện chữ thêm từng ngày)",
+        "B": "(1), (2), (4) — 📚 Nam · 🎸 Vy (thấy khó nên bỏ) · 🧮 Hà (xem ngay đáp án)",
+        "C": "(2), (4), (6) — 🎸 Vy · 🧮 Hà · 🎮 Tuấn (chỉ học khi bố mẹ nhắc)",
+        "D": "(3), (5), (6) — 🏃 Minh · ✍️ An · 🎮 Tuấn (chỉ học khi bố mẹ nhắc)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (5) (Nam – Minh – An). Đây là những hành động thể hiện việc làm đều đặn, tự giác và không nản chí trước khó khăn. Các bạn Vy, Hà, Tuấn thể hiện sự lười biếng, ỷ lại hoặc nhanh nản lòng."
+    },
+    {
+      "id": "q-b3-2",
+      "assignmentId": "asg-b3",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ “BẮT ĐÚNG TÍNH CÁCH”",
+      "points": 15,
+      "content": "Kéo từng thẻ vào đúng vùng:\n\n🔵 SIÊNG NĂNG  |  🟠 KIÊN TRÌ\n\nCác thẻ:\n(1) Làm việc đều đặn\n(2) Không bỏ cuộc khi gặp khó\n(3) Tự giác hoàn thành nhiệm vụ\n(4) Thử lại sau khi thất bại\n(5) Chăm chỉ, cần cù\n(6) Quyết tâm làm đến cùng\n\n💡 Mẹo nhớ:\nSIÊNG NĂNG → Đều đặn\nKIÊN TRÌ → Đến cùng",
+      "options": {
+        "A": "🔵 Siêng năng: (1, 3, 5)  ·  🟠 Kiên trì: (2, 4, 6)",
+        "B": "🔵 Siêng năng: (2, 4, 6)  ·  🟠 Kiên trì: (1, 3, 5)",
+        "C": "🔵 Siêng năng: (1, 2, 3)  ·  🟠 Kiên trì: (4, 5, 6)",
+        "D": "🔵 Siêng năng: (3, 4, 5)  ·  🟠 Kiên trì: (1, 2, 6)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chính xác:\n- 🔵 Siêng năng (1, 3, 5): Làm việc đều đặn; Tự giác hoàn thành nhiệm vụ; Chăm chỉ, cần cù.\n- 🟠 Kiên trì (2, 4, 6): Không bỏ cuộc khi gặp khó; Thử lại sau khi thất bại; Quyết tâm làm đến cùng."
+    },
+    {
+      "id": "q-b3-3",
+      "assignmentId": "asg-b3",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI NHANH: TÌNH HUỐNG ↔ BIỂU HIỆN",
+      "points": 10,
+      "content": "Nối mỗi tình huống với biểu hiện phù hợp nhất:\n\nTình huống:\nA. Ngày nào cũng dành thời gian đọc sách\nB. Làm sai vẫn sửa và thử lại\nC. Tự học mà không cần người lớn nhắc\nD. Gặp bài khó vẫn tìm cách giải tiếp\n\n↔️ Biểu hiện:\n① Không nản chí\n② Tự giác\n③ Thường xuyên\n④ Quyết tâm\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ③ (Thường xuyên) · B → ① (Không nản chí) · C → ② (Tự giác) · D → ④ (Quyết tâm)",
+        "B": "A → ① (Không nản chí) · B → ③ (Thường xuyên) · C → ④ (Quyết tâm) · D → ② (Tự giác)",
+        "C": "A → ② (Tự giác) · B → ④ (Quyết tâm) · C → ③ (Thường xuyên) · D → ① (Không nản chí)",
+        "D": "A → ④ (Quyết tâm) · B → ② (Tự giác) · C → ① (Không nản chí) · D → ③ (Thường xuyên)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–3, B–1, C–2, D–4:\n- A → ③: Ngày nào cũng đọc sách = Thường xuyên.\n- B → ①: Làm sai vẫn sửa và thử lại = Không nản chí.\n- C → ②: Tự học không đợi nhắc = Tự giác.\n- D → ④: Gặp bài khó vẫn tìm cách giải = Quyết tâm."
+    },
+    {
+      "id": "q-b3-4",
+      "assignmentId": "asg-b3",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — GIẢI MÃ CÔNG THỨC",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng chỗ:\n(ĐỀU ĐẶN • ĐẾN CÙNG • SIÊNG NĂNG • KIÊN TRÌ)\n\n🔵 __________ (1) = cần cù + tự giác + làm việc __________ (2)\n🟠 __________ (3) = quyết tâm thực hiện __________ (4) dù gặp khó khăn\n\n🔐 Phần ghi nhớ SGK GDCD 6: Siêng năng là cần cù, tự giác, làm việc đều đặn; Kiên trì là quyết tâm thực hiện đến cùng.",
+      "options": {
+        "A": "(1) SIÊNG NĂNG → (2) ĐỀU ĐẶN → (3) KIÊN TRÌ → (4) ĐẾN CÙNG",
+        "B": "(1) KIÊN TRÌ → (2) ĐẾN CÙNG → (3) SIÊNG NĂNG → (4) ĐỀU ĐẶN",
+        "C": "(1) SIÊNG NĂNG → (2) ĐẾN CÙNG → (3) KIÊN TRÌ → (4) ĐỀU ĐẶN",
+        "D": "(1) ĐỀU ĐẶN → (2) SIÊNG NĂNG → (3) ĐẾN CÙNG → (4) KIÊN TRÌ"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Công thức hoàn chỉnh:\n- 🔵 SIÊNG NĂNG = cần cù + tự giác + làm việc ĐỀU ĐẶN\n- 🟠 KIÊN TRÌ = quyết tâm thực hiện ĐẾN CÙNG dù gặp khó khăn."
+    },
+    {
+      "id": "q-b3-5",
+      "assignmentId": "asg-b3",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI?",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Chỉ cần học thật nhiều vào ngày trước khi kiểm tra cũng được coi là siêng năng.\n② Gặp bài khó, thử nhiều cách khác nhau để giải là biểu hiện của kiên trì.\n③ Siêng năng cần được thể hiện bằng sự thường xuyên, đều đặn.\n④ Kiên trì nghĩa là dù cách làm đang sai vẫn phải làm y hệt đến cùng.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Đúng – Sai.\n- ① Sai: Học dồn vào một ngày trước khi thi là học đối phó, không phải siêng năng.\n- ② Đúng: Thử nhiều cách để giải quyết khó khăn là kiên trì có trí tuệ.\n- ③ Đúng: Siêng năng luôn gắn với tính thường xuyên, đều đặn mỗi ngày.\n- ④ Sai: Kiên trì không có nghĩa là cố chấp làm theo cách sai; cần biết rút kinh nghiệm và điều chỉnh hợp lý."
+    },
+    {
+      "id": "q-b3-6",
+      "assignmentId": "asg-b3",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn cùng chia sẻ bí quyết học tập:\n\n📚 An: “Mình chia bài thành từng phần nhỏ và học đều mỗi ngày.”\n🎯 Mai: “Chưa làm được, mình sẽ xem lại lỗi rồi thử cách khác.”\n🌱 Minh: “Mình đặt mục tiêu rồi cố gắng hoàn thành.”\n⚡ Nam: “Chỉ cần hôm nào có hứng thì học thật nhiều là đủ.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Mình chia bài thành từng phần nhỏ và học đều mỗi ngày.”",
+        "B": "Mai: “Chưa làm được, mình sẽ xem lại lỗi rồi thử cách khác.”",
+        "C": "Minh: “Mình đặt mục tiêu rồi cố gắng hoàn thành.”",
+        "D": "Nam: “Chỉ cần hôm nào có hứng thì học thật nhiều là đủ.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Việc học tùy hứng không mang lại hiệu quả bền vững; siêng năng đòi hỏi sự kiên trì và kỷ luật làm việc đều đặn mỗi ngày chứ không phụ thuộc vào cảm hứng nhất thời."
+    },
+    {
+      "id": "q-b3-7",
+      "assignmentId": "asg-b3",
+      "order": 7,
+      "taskName": "🪜 NHIỆM VỤ 7 — XÂY “CẦU THANG THÀNH CÔNG”",
+      "points": 10,
+      "content": "Sắp xếp 4 thẻ theo một quá trình rèn luyện hợp lí:\n(🏆 ĐẠT KẾT QUẢ · 💪 KIÊN TRÌ THỰC HIỆN · 🎯 XÁC ĐỊNH MỤC TIÊU · 📅 LÀM VIỆC ĐỀU ĐẶN)\n\n① __________ ⬇️ ② __________ ⬇️ ③ __________ ⬇️ ④ __________ 🏆",
+      "options": {
+        "A": "① XÁC ĐỊNH MỤC TIÊU → ② LÀM VIỆC ĐỀU ĐẶN → ③ KIÊN TRÌ THỰC HIỆN → ④ ĐẠT KẾT QUẢ 🏆",
+        "B": "① LÀM VIỆC ĐỀU ĐẶN → ② XÁC ĐỊNH MỤC TIÊU → ③ KIÊN TRÌ THỰC HIỆN → ④ ĐẠT KẾT QUẢ 🏆",
+        "C": "① KIÊN TRÌ THỰC HIỆN → ② XÁC ĐỊNH MỤC TIÊU → ③ LÀM VIỆC ĐỀU ĐẶN → ④ ĐẠT KẾT QUẢ 🏆",
+        "D": "① XÁC ĐỊNH MỤC TIÊU → ② KIÊN TRÌ THỰC HIỆN → ③ ĐẠT KẾT QUẢ → ④ LÀM VIỆC ĐỀU ĐẶN 🏆"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Thứ tự quá trình chuẩn: Xác định mục tiêu rõ ràng → Lên kế hoạch và làm việc đều đặn (siêng năng) → Kiên trì thực hiện, vượt qua khó khăn → Đạt được kết quả và thành công tốt đẹp."
+    },
+    {
+      "id": "q-b3-8",
+      "assignmentId": "asg-b3",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 🎭 “7 NGÀY LÀ BỎ?”",
+      "points": 15,
+      "content": "Linh muốn học bơi. Ngày đầu, Linh rất hào hứng. Sau một tuần, Linh vẫn chưa bơi được và nói:\n😩 “Mình không có năng khiếu. Nghỉ thôi!”\n\nBạn thân đưa ra 4 lời khuyên. Theo em, lời khuyên nào TỐT NHẤT?\n\n🔐 THỬ THÁCH TRÍ NHỚ — 20 GIÂY KHÓA CHẶT BÀI HỌC:\n🔵 SIÊNG NĂNG ⬇ 📅 THƯỜNG XUYÊN – ĐỀU ĐẶN\n+ 🟠 KIÊN TRÌ ⬇ 💪 KHÔNG BỎ CUỘC – LÀM ĐẾN CÙNG\n= 🏆 TIẾN BỘ – KẾT QUẢ TỐT – THÀNH CÔNG",
+      "options": {
+        "A": "“Ừ, khó quá thì bỏ đi!”",
+        "B": "“Ngày mai tập thật nhiều 4 tiếng để bù lại.”",
+        "C": "“Cứ làm đúng y như cũ mãi rồi sẽ được.”",
+        "D": "“Xem mình đang sai ở đâu, nhờ hướng dẫn, điều chỉnh cách tập và tiếp tục luyện đều đặn.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Lời khuyên tốt nhất: D — Xem mình đang sai ở đâu, nhờ hướng dẫn, điều chỉnh cách tập và tiếp tục luyện đều đặn. Lời khuyên này kết hợp toàn diện giữa sự siêng năng (luyện đều đặn), kiên trì (không bỏ cuộc) và phương pháp học tập khoa học, đúng đắn."
+    },
+    {
+      "id": "q-b4-1",
+      "assignmentId": "asg-b4",
+      "order": 1,
+      "taskName": "⚡ THỬ THÁCH 1 — “THẬT” HAY “GIẢ”?",
+      "points": 10,
+      "content": "Chọn 3 hành động thể hiện tôn trọng sự thật:\n\n(1) 📝 Làm sai bài, Lan tự nhận lỗi và sửa lại.\n(2) 📱 Chưa đọc thông tin nhưng Minh vẫn chia sẻ vì thấy nhiều người đăng.\n(3) ⚽ Làm mất bóng của lớp, An chủ động báo với cô.\n(4) 😶 Thấy bạn bị đổ oan nhưng im lặng vì sợ phiền.\n(5) 🔎 Chưa chắc một thông tin đúng, Hà kiểm tra trước khi kể cho bạn.\n(6) 🎭 Kể sai một chút để câu chuyện hấp dẫn hơn.",
+      "options": {
+        "A": "(1), (3), (5) — 📝 Lan (tự nhận lỗi và sửa lại) · ⚽ An (chủ động báo cô) · 🔎 Hà (kiểm tra trước khi kể)",
+        "B": "(1), (2), (4) — 📝 Lan · 📱 Minh (chia sẻ tin chưa đọc) · 😶 Im lặng khi bạn bị oan",
+        "C": "(2), (4), (6) — 📱 Minh · 😶 Im lặng vì sợ phiền · 🎭 Kể sai cho hấp dẫn",
+        "D": "(3), (5), (6) — ⚽ An · 🔎 Hà · 🎭 Kể sai cho hấp dẫn"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (5) (Lan – An – Hà). Đây là những hành vi trung thực, dũng cảm nhận lỗi và cẩn trọng với thông tin. Các hành vi (2), (4), (6) là chia sẻ tin giả, thiếu trách nhiệm bảo vệ người bị oan hoặc cố tình bóp méo sự thật."
+    },
+    {
+      "id": "q-b4-2",
+      "assignmentId": "asg-b4",
+      "order": 2,
+      "taskName": "🧩 THỬ THÁCH 2 — KÉO THẢ “3 CHÌA KHÓA SỰ THẬT”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào đúng vùng:\n\n🧠 SUY NGHĨ  |  💬 LỜI NÓI  |  🤝 VIỆC LÀM\n\nCác thẻ:\n(1) Không vội tin điều chưa được kiểm chứng\n(2) Nói đúng những gì mình biết\n(3) Nhận lỗi khi mình làm sai\n(4) Không cố tình bóp méo sự việc\n(5) Không vu oan cho người khác\n(6) Bảo vệ điều đúng bằng cách phù hợp\n\n💡 SGK: Biểu hiện của tôn trọng sự thật là suy nghĩ, nói và làm theo đúng sự thật.",
+      "options": {
+        "A": "🧠 Suy nghĩ: (1, 4) · 💬 Lời nói: (2, 5) · 🤝 Việc làm: (3, 6)",
+        "B": "🧠 Suy nghĩ: (2, 5) · 💬 Lời nói: (1, 4) · 🤝 Việc làm: (3, 6)",
+        "C": "🧠 Suy nghĩ: (1, 4) · 💬 Lời nói: (3, 6) · 🤝 Việc làm: (2, 5)",
+        "D": "🧠 Suy nghĩ: (3, 6) · 💬 Lời nói: (2, 5) · 🤝 Việc làm: (1, 4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chính xác theo SGK GDCD 6:\n- 🧠 Suy nghĩ (1, 4): Không vội tin điều chưa được kiểm chứng; Không cố tình bóp méo sự việc.\n- 💬 Lời nói (2, 5): Nói đúng những gì mình biết; Không vu oan cho người khác.\n- 🤝 Việc làm (3, 6): Nhận lỗi khi mình làm sai; Bảo vệ điều đúng bằng cách phù hợp."
+    },
+    {
+      "id": "q-b4-3",
+      "assignmentId": "asg-b4",
+      "order": 3,
+      "taskName": "🔗 THỬ THÁCH 3 — NỐI “SỰ THẬT → GIÁ TRỊ”",
+      "points": 10,
+      "content": "Nối mỗi hành động với kết quả phù hợp nhất:\n\nHành động:\nA. Thừa nhận lỗi của mình\nB. Không tung tin chưa kiểm chứng\nC. Nói đúng điều mình chứng kiến\nD. Sống trung thực lâu dài\n\n↔️ Kết quả:\n① Bảo vệ người bị oan\n② Có cơ hội sửa sai\n③ Tạo niềm tin\n④ Hạn chế thông tin sai\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ② (Có cơ hội sửa sai) · B → ④ (Hạn chế thông tin sai) · C → ① (Bảo vệ người bị oan) · D → ③ (Tạo niềm tin)",
+        "B": "A → ① (Bảo vệ người bị oan) · B → ④ (Hạn chế thông tin sai) · C → ② (Có cơ hội sửa sai) · D → ③ (Tạo niềm tin)",
+        "C": "A → ④ (Hạn chế thông tin sai) · B → ② (Có cơ hội sửa sai) · C → ① (Bảo vệ người bị oan) · D → ③ (Tạo niềm tin)",
+        "D": "A → ③ (Tạo niềm tin) · B → ① (Bảo vệ người bị oan) · C → ④ (Hạn chế thông tin sai) · D → ② (Có cơ hội sửa sai)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–2; B–4; C–1; D–3:\n- A → ②: Thừa nhận lỗi của mình = Có cơ hội sửa sai.\n- B → ④: Không tung tin chưa kiểm chứng = Hạn chế thông tin sai.\n- C → ①: Nói đúng điều mình chứng kiến = Bảo vệ người bị oan.\n- D → ③: Sống trung thực lâu dài = Tạo dựng niềm tin vững bền."
+    },
+    {
+      "id": "q-b4-4",
+      "assignmentId": "asg-b4",
+      "order": 4,
+      "taskName": "🧠 THỬ THÁCH 4 — GIẢI MÃ THÔNG ĐIỆP",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng chỗ:\n(SỰ THẬT • ĐÚNG • TÔN TRỌNG • HIỆN THỰC)\n\n\"__________ (1) là những gì có thật và phản ánh đúng __________ (2) cuộc sống.\n__________ (3) sự thật là suy nghĩ, nói và làm theo __________ (4) sự thật.\"",
+      "options": {
+        "A": "(1) SỰ THẬT → (2) HIỆN THỰC → (3) TÔN TRỌNG → (4) ĐÚNG",
+        "B": "(1) TÔN TRỌNG → (2) SỰ THẬT → (3) HIỆN THỰC → (4) ĐÚNG",
+        "C": "(1) HIỆN THỰC → (2) ĐÚNG → (3) SỰ THẬT → (4) TÔN TRỌNG",
+        "D": "(1) SỰ THẬT → (2) ĐÚNG → (3) TÔN TRỌNG → (4) HIỆN THỰC"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Thông điệp chuẩn xác SGK GDCD 6:\n\"SỰ THẬT là những gì có thật và phản ánh đúng HIỆN THỰC cuộc sống.\nTÔN TRỌNG sự thật là suy nghĩ, nói và làm theo ĐÚNG sự thật.\""
+    },
+    {
+      "id": "q-b4-5",
+      "assignmentId": "asg-b4",
+      "order": 5,
+      "taskName": "⚡ THỬ THÁCH 5 — ĐÚNG HAY SAI?",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Không biết chắc một việc nhưng kể lại như thể mình tận mắt chứng kiến là tôn trọng sự thật.\n② Khi làm sai, dám nhận lỗi là biểu hiện của tôn trọng sự thật.\n③ Vì sợ bạn buồn nên có thể nói dối bất cứ lúc nào.\n④ Tôn trọng sự thật không có nghĩa là muốn nói điều gì cũng được; cần có thái độ phù hợp.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ ĐÚNG 👍",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Sai – Đúng.\n- ① Sai: Kể việc chưa biết rõ như thể tận mắt thấy là lan truyền thông tin sai lệch.\n- ② Đúng: Dám nhận lỗi là biểu hiện dũng cảm của người tôn trọng sự thật.\n- ③ Sai: Không thể tùy tiện nói dối; cần chân thành và có phương pháp chia sẻ tế nhị.\n- ④ Đúng: Nói thật cần kết hợp thái độ khéo léo, đúng lúc và mang tính xây dựng."
+    },
+    {
+      "id": "q-b4-6",
+      "assignmentId": "asg-b4",
+      "order": 6,
+      "taskName": "🕵️ THỬ THÁCH 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn nói về sự trung thực:\n\n🟢 An: “Chưa biết rõ thì mình không nên khẳng định.”\n🔵 Mai: “Làm sai thì nên nhận lỗi.”\n🟣 Minh: “Nói thật cũng cần đúng lúc và có thái độ phù hợp.”\n🔴 Nam: “Miễn điều mình nói là thật thì nói thế nào cũng được, người khác buồn cũng không sao.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Chưa biết rõ thì mình không nên khẳng định.”",
+        "B": "Mai: “Làm sai thì nên nhận lỗi.”",
+        "C": "Minh: “Nói thật cũng cần đúng lúc và có thái độ phù hợp.”",
+        "D": "Nam: “Miễn điều mình nói là thật thì nói thế nào cũng được, người khác buồn cũng không sao.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Đây là điểm phân hóa quan trọng: SGK yêu cầu tôn trọng sự thật không chỉ là nói đúng sự thật mà còn cần thái độ dũng cảm, khéo léo, tinh tế và nhân ái, không làm tổn thương người khác một cách thô lỗ."
+    },
+    {
+      "id": "q-b4-7",
+      "assignmentId": "asg-b4",
+      "order": 7,
+      "taskName": "🚦 THỬ THÁCH 7 — “ĐÈN XANH HAY ĐÈN ĐỎ?”",
+      "points": 10,
+      "content": "Phân loại 6 hành động:\n\n🟢 TÔN TRỌNG SỰ THẬT  |  🔴 CHƯA TÔN TRỌNG SỰ THẬT\n\nCác thẻ:\n① Nhận lỗi khi làm hỏng đồ của bạn.\n② Thêm chi tiết không có thật để câu chuyện thú vị hơn.\n③ Đính chính khi phát hiện mình đã nói sai.\n④ Che giấu lỗi của bạn thân để bạn không bị nhắc nhở.\n⑤ Kiểm tra thông tin trước khi chia sẻ.\n⑥ Im lặng khi biết một bạn đang bị đổ oan dù mình có thể báo cho người có trách nhiệm.",
+      "options": {
+        "A": "🟢 Tôn trọng sự thật: (1, 3, 5)  ·  🔴 Chưa tôn trọng sự thật: (2, 4, 6)",
+        "B": "🟢 Tôn trọng sự thật: (1, 2, 5)  ·  🔴 Chưa tôn trọng sự thật: (3, 4, 6)",
+        "C": "🟢 Tôn trọng sự thật: (2, 4, 6)  ·  🔴 Chưa tôn trọng sự thật: (1, 3, 5)",
+        "D": "🟢 Tôn trọng sự thật: (3, 4, 5)  ·  🔴 Chưa tôn trọng sự thật: (1, 2, 6)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chính xác: 🟢 1, 3, 5 | 🔴 2, 4, 6.\n- 🟢 Tôn trọng sự thật (1, 3, 5): Nhận lỗi khi làm hỏng đồ; Đính chính khi phát hiện mình nói sai; Kiểm tra thông tin trước khi chia sẻ.\n- 🔴 Chưa tôn trọng sự thật (2, 4, 6): Bịa thêm chi tiết; Che giấu lỗi cho bạn thân; Im lặng khi bạn bị oan."
+    },
+    {
+      "id": "q-b4-8",
+      "assignmentId": "asg-b4",
+      "order": 8,
+      "taskName": "🏆 THỬ THÁCH 8 — BOSS LEVEL 🎭 “BẠN THÂN HAY SỰ THẬT?”",
+      "points": 15,
+      "content": "Trong giờ ra chơi, Khoa vô ý làm hỏng một món đồ dùng chung của lớp. Khoa nói nhỏ với em: 😟 “Đừng nói với ai nhé! Cậu là bạn thân của mình mà!”\nMột lúc sau, cô giáo hỏi cả lớp chuyện gì đã xảy ra. Em sẽ làm gì?\n\n🔐 THỬ THÁCH TRÍ NHỚ 20 GIÂY — 4 CHÌA KHÓA CỦA SỰ THẬT:\n🧠 NGHĨ ĐÚNG ⬇ 💬 NÓI THẬT ⬇ 🤝 LÀM ĐÚNG ⬇ ❤️ KHÉO LÉO – CÓ TRÁCH NHIỆM\n→ 🤝 NIỀM TIN → ⚖️ CÔNG BẰNG → 🌱 CUỘC SỐNG TỐT ĐẸP\n\n💡 SGK: Tôn trọng sự thật bảo vệ điều đúng đắn, tránh nhầm lẫn oan sai, tạo niềm tin gắn kết con người.",
+      "options": {
+        "A": "Nói một bạn khác làm để bảo vệ Khoa.",
+        "B": "Im lặng hoàn toàn vì đã là bạn thì phải che giấu cho nhau.",
+        "C": "Khuyên Khoa chủ động nói thật và nhận trách nhiệm; nếu cần, cùng bạn trình bày sự việc với cô.",
+        "D": "Kể ngay chuyện của Khoa cho tất cả các lớp khác biết."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Khuyên Khoa chủ động nói thật và nhận trách nhiệm; nếu cần, cùng bạn trình bày sự việc với cô. Lựa chọn này vừa tôn trọng sự thật, vừa thể hiện tình bạn chân thành và trách nhiệm, giúp bạn dũng cảm nhận lỗi để tiến bộ."
+    },
+    {
+      "id": "q-b5-1",
+      "assignmentId": "asg-b5",
+      "order": 1,
+      "taskName": "⚡ THỬ THÁCH 1 — “TỰ LÀM” HAY “CHỜ NGƯỜI LÀM”?",
+      "points": 10,
+      "content": "Chọn 3 hành động thể hiện tính tự lập:\n\n(1) ⏰ Tự đặt báo thức và chuẩn bị đi học đúng giờ.\n(2) 🎒 Quên sách thì yêu cầu bố mẹ mang đến trường ngay.\n(3) 📚 Chủ động hoàn thành bài tập trước khi chơi.\n(4) 🧹 Việc của mình nhưng chờ người khác nhắc mới làm.\n(5) 🍚 Tự làm những việc nhà vừa sức.\n(6) 📝 Gặp bài hơi khó là chép ngay bài của bạn.",
+      "options": {
+        "A": "(1), (3), (5) — ⏰ Tự đặt báo thức đúng giờ · 📚 Chủ động hoàn thành bài tập · 🍚 Tự làm việc nhà vừa sức",
+        "B": "(1), (2), (4) — ⏰ Tự đặt báo thức · 🎒 Quên sách đòi bố mẹ mang đến · 🧹 Chờ nhắc mới làm",
+        "C": "(2), (4), (6) — 🎒 Đòi bố mẹ mang sách · 🧹 Chờ nhắc mới làm · 📝 Chép bài bạn",
+        "D": "(3), (5), (6) — 📚 Chủ động làm bài · 🍚 Tự làm việc nhà · 📝 Chép bài bạn"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (5). Đây là những việc làm chủ động, tự giác hoàn thành bổn phận học tập và sinh hoạt của bản thân. Các hành vi (2), (4), (6) thể hiện sự ỷ lại, dựa dẫm hoặc gian lận."
+    },
+    {
+      "id": "q-b5-2",
+      "assignmentId": "asg-b5",
+      "order": 2,
+      "taskName": "🧩 THỬ THÁCH 2 — KÉO THẢ “AI LÀM CHỦ?”",
+      "points": 15,
+      "content": "Kéo từng thẻ vào đúng chiếc hộp:\n\n🚀 TỰ LẬP  |  💤 DỰA DẪM – Ỷ LẠI\n\nCác thẻ:\n(1) Tự sắp xếp góc học tập.\n(2) Luôn chờ bố mẹ chuẩn bị đồ dùng học tập.\n(3) Chủ động làm nhiệm vụ được giao.\n(4) Nhờ bạn làm hộ phần việc của mình.\n(5) Tự tìm cách giải quyết việc vừa sức.\n(6) Có thể tự làm nhưng vẫn đẩy cho người khác.",
+      "options": {
+        "A": "🚀 Tự lập: (1, 3, 5)  ·  💤 Dựa dẫm, ỷ lại: (2, 4, 6)",
+        "B": "🚀 Tự lập: (2, 4, 6)  ·  💤 Dựa dẫm, ỷ lại: (1, 3, 5)",
+        "C": "🚀 Tự lập: (1, 2, 5)  ·  💤 Dựa dẫm, ỷ lại: (3, 4, 6)",
+        "D": "🚀 Tự lập: (3, 5, 6)  ·  💤 Dựa dẫm, ỷ lại: (1, 2, 4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác:\n- 🚀 Tự lập (1, 3, 5): Tự sắp xếp góc học tập; Chủ động làm nhiệm vụ được giao; Tự tìm cách giải quyết việc vừa sức.\n- 💤 Dựa dẫm, ỷ lại (2, 4, 6): Chờ bố mẹ chuẩn bị đồ; Nhờ bạn làm hộ việc mình; Đẩy việc cho người khác."
+    },
+    {
+      "id": "q-b5-3",
+      "assignmentId": "asg-b5",
+      "order": 3,
+      "taskName": "🔗 THỬ THÁCH 3 — NỐI ĐÚNG “NĂNG LỰC TỰ LẬP”",
+      "points": 10,
+      "content": "Nối tình huống với biểu hiện phù hợp nhất:\n\nTình huống:\nA. Tự kiểm tra sách vở trước khi đến lớp\nB. Hoàn thành việc nhà mà không chờ nhắc\nC. Làm sai, chủ động sửa lỗi của mình\nD. Gặp việc vừa sức, thử tìm cách xử lí\n\n↔️ Biểu hiện:\n① Tự giải quyết\n② Tự chịu trách nhiệm\n③ Tự chuẩn bị\n④ Tự giác\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ③ (Tự chuẩn bị) · B → ④ (Tự giác) · C → ② (Tự chịu trách nhiệm) · D → ① (Tự giải quyết)",
+        "B": "A → ① (Tự giải quyết) · B → ② (Tự chịu trách nhiệm) · C → ④ (Tự giác) · D → ③ (Tự chuẩn bị)",
+        "C": "A → ④ (Tự giác) · B → ③ (Tự chuẩn bị) · C → ① (Tự giải quyết) · D → ② (Tự chịu trách nhiệm)",
+        "D": "A → ② (Tự chịu trách nhiệm) · B → ① (Tự giải quyết) · C → ③ (Tự chuẩn bị) · D → ④ (Tự giác)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–3; B–4; C–2; D–1:\n- A → ③: Tự kiểm tra sách vở trước khi đến lớp = Tự chuẩn bị.\n- B → ④: Hoàn thành việc nhà không cần nhắc = Tự giác.\n- C → ②: Làm sai chủ động sửa lỗi = Tự chịu trách nhiệm.\n- D → ①: Gặp việc vừa sức, thử tìm cách xử lí = Tự giải quyết."
+    },
+    {
+      "id": "q-b5-4",
+      "assignmentId": "asg-b5",
+      "order": 4,
+      "taskName": "🧠 THỬ THÁCH 4 — GIẢI MÃ “CÔNG THỨC TỰ LẬP”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa: (TỰ GIÁC • DỰA DẪM • TỰ LẬP • KHẢ NĂNG)\n\n\"🚀 __________ (1) là chủ động, __________ (2) làm những công việc bằng __________ (3) của mình, không __________ (4), ỷ lại vào người khác.\"\n\n💡 SGK GDCD 6: Tự làm nhiệm vụ, không chép bài, chủ động làm việc nhà và tự giác trong học tập.",
+      "options": {
+        "A": "(1) TỰ LẬP → (2) TỰ GIÁC → (3) KHẢ NĂNG → (4) DỰA DẪM",
+        "B": "(1) TỰ GIÁC → (2) TỰ LẬP → (3) DỰA DẪM → (4) KHẢ NĂNG",
+        "C": "(1) TỰ LẬP → (2) KHẢ NĂNG → (3) TỰ GIÁC → (4) DỰA DẪM",
+        "D": "(1) KHẢ NĂNG → (2) TỰ LẬP → (3) TỰ GIÁC → (4) DỰA DẪM"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Định nghĩa cốt lõi trong SGK:\n\"🚀 TỰ LẬP là chủ động, TỰ GIÁC làm những công việc bằng KHẢ NĂNG của mình, không DỰA DẪM, ỷ lại vào người khác.\""
+    },
+    {
+      "id": "q-b5-5",
+      "assignmentId": "asg-b5",
+      "order": 5,
+      "taskName": "⚡ THỬ THÁCH 5 — ĐÚNG HAY SAI?",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Tự lập nghĩa là việc gì cũng phải tự làm, tuyệt đối không được nhờ ai giúp.\n② Việc nằm trong khả năng của mình thì nên chủ động thực hiện.\n③ Tự lập chỉ cần thiết khi đã trưởng thành.\n④ Biết chịu trách nhiệm với nhiệm vụ của mình là biểu hiện của tự lập.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ ĐÚNG 👍",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Sai – Đúng.\n- ① Sai: Tự lập không có nghĩa là cô lập; khi gặp việc quá khả năng vẫn có thể học hỏi, xin hướng dẫn.\n- ② Đúng: Việc trong khả năng phải chủ động tự làm.\n- ③ Sai: Tự lập cần rèn luyện ngay từ nhỏ, từ những việc đơn giản hàng ngày.\n- ④ Đúng: Dám chịu trách nhiệm là cốt lõi của tính tự lập."
+    },
+    {
+      "id": "q-b5-6",
+      "assignmentId": "asg-b5",
+      "order": 6,
+      "taskName": "🕵️ THỬ THÁCH 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn chia sẻ về tự lập:\n\n🚀 An: “Việc của mình, mình cố gắng chủ động hoàn thành.”\n🎯 Mai: “Chưa biết làm, mình có thể hỏi cách rồi tự thực hiện.”\n🌱 Minh: “Mình tập làm những việc phù hợp với khả năng.”\n😎 Nam: “Có bố mẹ làm giúp thì mình chẳng cần học cách tự làm.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Việc của mình, mình cố gắng chủ động hoàn thành.”",
+        "B": "Mai: “Chưa biết làm, mình có thể hỏi cách rồi tự thực hiện.”",
+        "C": "Minh: “Mình tập làm những việc phù hợp với khả năng.”",
+        "D": "Nam: “Có bố mẹ làm giúp thì mình chẳng cần học cách tự làm.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Suy nghĩ của Nam là biểu hiện của sự ỷ lại, lười biếng và dựa dẫm vào bố mẹ. Thái độ này khiến bản thân không phát triển được kỹ năng sống và thiếu bản lĩnh khi trưởng thành."
+    },
+    {
+      "id": "q-b5-7",
+      "assignmentId": "asg-b5",
+      "order": 7,
+      "taskName": "🪜 THỬ THÁCH 7 — XÂY “CẦU THANG TỰ LẬP”",
+      "points": 10,
+      "content": "Sắp xếp 4 thẻ thành một quá trình rèn luyện hợp lí:\n(💪 TỰ TIN HƠN · 🎯 NHẬN NHIỆM VỤ · 🚀 CHỦ ĐỘNG THỰC HIỆN · 🌱 NĂNG LỰC TIẾN BỘ)\n\nCầu thang của em:\n① __________ ⬇️ ② __________ ⬇️ ③ __________ ⬇️ ④ __________ 🏆",
+      "options": {
+        "A": "① NHẬN NHIỆM VỤ → ② CHỦ ĐỘNG THỰC HIỆN → ③ NĂNG LỰC TIẾN BỘ → ④ TỰ TIN HƠN 🏆",
+        "B": "① CHỦ ĐỘNG THỰC HIỆN → ② NHẬN NHIỆM VỤ → ③ TỰ TIN HƠN → ④ NĂNG LỰC TIẾN BỘ 🏆",
+        "C": "① NHẬN NHIỆM VỤ → ② TỰ TIN HƠN → ③ CHỦ ĐỘNG THỰC HIỆN → ④ NĂNG LỰC TIẾN BỘ 🏆",
+        "D": "① NĂNG LỰC TIẾN BỘ → ② NHẬN NHIỆM VỤ → ③ CHỦ ĐỘNG THỰC HIỆN → ④ TỰ TIN HƠN 🏆"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Thứ tự tiến trình đúng: Nhận nhiệm vụ được giao → Chủ động thực hiện bằng khả năng của mình → Rèn luyện giúp năng lực ngày càng tiến bộ → Bản thân trở nên vững vàng và tự tin hơn trong cuộc sống."
+    },
+    {
+      "id": "q-b5-8",
+      "assignmentId": "asg-b5",
+      "order": 8,
+      "taskName": "🏆 THỬ THÁCH 8 — BOSS LEVEL 🎭 “TỰ LẬP CÓ PHẢI TỰ LÀM TẤT CẢ?”",
+      "points": 15,
+      "content": "Cô giáo giao cho Khánh làm một bài thuyết trình. Khánh chưa biết cách tạo biểu đồ trên máy tính. Bạn nghĩ: 😟 “Nếu hỏi người khác thì mình không còn là người tự lập nữa!”\n\nKhánh nên làm gì?\n\n🔐 THỬ THÁCH TRÍ NHỚ 20 GIÂY — “DNA CỦA NGƯỜI TỰ LẬP”:\n🎯 VIỆC CỦA MÌNH ⬇ 🚀 CHỦ ĐỘNG ⬇ 💪 TỰ LÀM TRONG KHẢ NĂNG ⬇ 🧭 CHỊU TRÁCH NHIỆM ⬇ 🌱 TRƯỞNG THÀNH HƠN\n\n🔑 Công thức nhớ nhanh: TỰ LẬP = CHỦ ĐỘNG + TỰ GIÁC + TỰ THỰC HIỆN + KHÔNG Ỷ LẠI.\n(Lưu ý: Nhờ hướng dẫn cách làm ≠ Dựa dẫm)",
+      "options": {
+        "A": "Không hỏi ai và bỏ luôn phần biểu đồ.",
+        "B": "Nhờ bạn làm toàn bộ bài thuyết trình hộ.",
+        "C": "Tìm hướng dẫn hoặc hỏi cách thực hiện, sau đó tự làm phần việc của mình.",
+        "D": "Chép nguyên bài của một bạn khác."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Tìm hướng dẫn hoặc hỏi cách thực hiện, sau đó tự làm phần việc của mình. Nhờ người khác chỉ dẫn cách làm là hành vi học hỏi tích cực, không phải là dựa dẫm. Điểm quyết định của tự lập là bạn tự chịu trách nhiệm và trực tiếp hoàn thành nhiệm vụ của chính mình."
+    },
+    {
+      "id": "q-b6-1",
+      "assignmentId": "asg-b6",
+      "order": 1,
+      "taskName": "🎮 THỬ THÁCH 1 — “GƯƠNG SOI BẢN THÂN”",
+      "points": 10,
+      "content": "Chọn 4 điều giúp em hiểu đúng về bản thân:\n\n(1) 💪 Biết mình làm tốt việc gì.\n(2) 😟 Chỉ chú ý đến khuyết điểm của mình.\n(3) ❤️ Biết mình thích và không thích điều gì.\n(4) 🎯 Nhận ra điều mình cần cải thiện.\n(5) 👥 Cố biến mình thành một người khác.\n(6) 🧠 Hiểu đặc điểm tính cách của mình.",
+      "options": {
+        "A": "(1), (3), (4), (6) — 💪 Biết mình làm tốt việc gì · ❤️ Biết sở thích bản thân · 🎯 Nhận ra điều cần cải thiện · 🧠 Hiểu đặc điểm tính cách",
+        "B": "(1), (2), (3), (5) — Biết việc làm tốt · Chỉ chú ý khuyết điểm · Biết sở thích · Cố biến thành người khác",
+        "C": "(2), (4), (5), (6) — Chỉ chú ý khuyết điểm · Cần cải thiện · Biến thành người khác · Hiểu tính cách",
+        "D": "(1), (2), (4), (6) — Biết việc làm tốt · Chỉ chú ý khuyết điểm · Cần cải thiện · Hiểu tính cách"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (4), (6). Tự nhận thức bản thân là nhìn nhận toàn diện cả ưu điểm, sở thích, tính cách và những điểm cần cải thiện. Không nên chỉ tự ti tập trung vào khuyết điểm (2) hay đánh mất bản sắc của chính mình để cố trở thành người khác (5)."
+    },
+    {
+      "id": "q-b6-2",
+      "assignmentId": "asg-b6",
+      "order": 2,
+      "taskName": "🧩 THỬ THÁCH 2 — KÉO THẢ “TÔI LÀ AI?”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào đúng chiếc hộp:\n\n💎 ĐIỂM MẠNH  |  🌱 ĐIỂM CẦN CẢI THIỆN  |  ❤️ SỞ THÍCH\n\nCác thẻ:\n(1) 🎨 Thích vẽ tranh\n(2) 🤝 Dễ hợp tác với bạn\n(3) ⏰ Hay đi học sát giờ\n(4) ⚽ Thích chơi bóng đá\n(5) 🎤 Tự tin khi thuyết trình\n(6) 📱 Dễ mất tập trung khi có điện thoại\n\n💡 Lưu ý tích cực: Không có hộp “điểm xấu”. Điểm chưa tốt được gọi là “điểm cần cải thiện” vì chúng ta hoàn toàn có thể rèn luyện để thay đổi.",
+      "options": {
+        "A": "💎 Điểm mạnh: (2, 5) · 🌱 Điểm cần cải thiện: (3, 6) · ❤️ Sở thích: (1, 4)",
+        "B": "💎 Điểm mạnh: (1, 4) · 🌱 Điểm cần cải thiện: (2, 5) · ❤️ Sở thích: (3, 6)",
+        "C": "💎 Điểm mạnh: (2, 5) · 🌱 Điểm cần cải thiện: (1, 4) · ❤️ Sở thích: (3, 6)",
+        "D": "💎 Điểm mạnh: (3, 6) · 🌱 Điểm cần cải thiện: (2, 5) · ❤️ Sở thích: (1, 4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác:\n- 💎 Điểm mạnh: (2) Dễ hợp tác với bạn; (5) Tự tin khi thuyết trình.\n- 🌱 Cần cải thiện: (3) Hay đi học sát giờ; (6) Dễ mất tập trung khi có điện thoại.\n- ❤️ Sở thích: (1) Thích vẽ tranh; (4) Thích chơi bóng đá."
+    },
+    {
+      "id": "q-b6-3",
+      "assignmentId": "asg-b6",
+      "order": 3,
+      "taskName": "🔗 THỬ THÁCH 3 — NỐI “CHIẾC GƯƠNG”: TÌNH HUỐNG ↔ CÁCH NHẬN THỨC",
+      "points": 10,
+      "content": "Muốn hiểu mình rõ hơn, em nên làm gì? Nối tình huống với cách tự nhận thức phù hợp nhất:\n\nTình huống:\nA. Muốn biết khả năng chạy của mình\nB. Muốn biết mình có hay ngắt lời người khác\nC. Muốn biết mình hợp hoạt động nào\nD. Bạn góp ý em nói hơi nhanh\n\n↔️ Cách tự nhận thức:\n① Lắng nghe phản hồi\n② Quan sát kết quả\n③ Tự quan sát hành vi\n④ Thử sức, trải nghiệm\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ② (Quan sát kết quả) · B → ③ (Tự quan sát hành vi) · C → ④ (Thử sức, trải nghiệm) · D → ① (Lắng nghe phản hồi)",
+        "B": "A → ① (Lắng nghe phản hồi) · B → ② (Quan sát kết quả) · C → ③ (Tự quan sát hành vi) · D → ④ (Thử sức, trải nghiệm)",
+        "C": "A → ④ (Thử sức, trải nghiệm) · B → ① (Lắng nghe phản hồi) · C → ② (Quan sát kết quả) · D → ③ (Tự quan sát hành vi)",
+        "D": "A → ② (Quan sát kết quả) · B → ④ (Thử sức, trải nghiệm) · C → ① (Lắng nghe phản hồi) · D → ③ (Tự quan sát hành vi)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–2; B–3; C–4; D–1:\n- A → ②: Muốn biết khả năng chạy = Quan sát kết quả (thời gian, quãng đường).\n- B → ③: Muốn biết có hay ngắt lời = Tự quan sát hành vi trong giao tiếp.\n- C → ④: Muốn biết hợp hoạt động nào = Thử sức, trải nghiệm thực tế.\n- D → ①: Bạn góp ý nói hơi nhanh = Lắng nghe phản hồi từ xung quanh."
+    },
+    {
+      "id": "q-b6-4",
+      "assignmentId": "asg-b6",
+      "order": 4,
+      "taskName": "🧠 THỬ THÁCH 4 — GIẢI MÃ “TÔI HIỂU TÔI”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng vị trí:\n(ĐIỂM MẠNH • ĐÚNG • ĐIỂM YẾU • BẢN THÂN)\n\n\"🪞 Tự nhận thức bản thân là biết nhìn nhận, đánh giá _________ (1) về _________ (2); nhận ra _________ (3) để phát huy và _________ (4) để khắc phục.\"\n\n💡 Trọng tâm SGK GDCD 6: Hiểu đúng bản thân giúp tự tin phát huy thế mạnh và kiên trì rèn luyện khắc phục hạn chế.",
+      "options": {
+        "A": "(1) ĐÚNG → (2) BẢN THÂN → (3) ĐIỂM MẠNH → (4) ĐIỂM YẾU",
+        "B": "(1) BẢN THÂN → (2) ĐÚNG → (3) ĐIỂM YẾU → (4) ĐIỂM MẠNH",
+        "C": "(1) ĐÚNG → (2) ĐIỂM MẠNH → (3) BẢN THÂN → (4) ĐIỂM YẾU",
+        "D": "(1) ĐIỂM MẠNH → (2) BẢN THÂN → (3) ĐÚNG → (4) ĐIỂM YẾU"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Câu hoàn chỉnh theo SGK:\n\"🪞 Tự nhận thức bản thân là biết nhìn nhận, đánh giá ĐÚNG về BẢN THÂN; nhận ra ĐIỂM MẠNH để phát huy và ĐIỂM YẾU để khắc phục.\""
+    },
+    {
+      "id": "q-b6-5",
+      "assignmentId": "asg-b6",
+      "order": 5,
+      "taskName": "⚡ THỬ THÁCH 5 — ĐÚNG HAY SAI?",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Biết mình có điểm yếu nghĩa là mình kém cỏi.\n② Nhận xét của người khác có thể giúp mình hiểu thêm về bản thân.\n③ Tự nhận thức tốt là chỉ cần biết những điểm mình giỏi.\n④ Trải nghiệm những hoạt động mới có thể giúp mình khám phá khả năng của bản thân.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ ĐÚNG 👍",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ ĐÚNG 👍"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Sai – Đúng.\n- ① Sai: Ai cũng có điểm yếu; nhận ra điểm yếu là bước đầu để rèn luyện tiến bộ, không đồng nghĩa với kém cỏi.\n- ② Đúng: Góc nhìn từ người khác là tấm gương phản chiếu khách quan.\n- ③ Sai: Tự nhận thức cần toàn diện, không chỉ nhìn mỗi ưu điểm.\n- ④ Đúng: Tích cực trải nghiệm giúp đánh thức những tiềm năng tiềm ẩn."
+    },
+    {
+      "id": "q-b6-6",
+      "assignmentId": "asg-b6",
+      "order": 6,
+      "taskName": "🕵️ THỬ THÁCH 6 — AI ĐANG “SOI GƯƠNG SAI”?",
+      "points": 10,
+      "content": "Bốn bạn cùng chia sẻ về cách tự nhận thức:\n\n🟢 An: “Mình học Toán tốt nhưng cần cải thiện khả năng trình bày.”\n🔵 Mai: “Bạn góp ý thì mình lắng nghe rồi xem điều đó có đúng không.”\n🟣 Minh: “Mình thử tham gia câu lạc bộ để khám phá khả năng mới.”\n🔴 Nam: “Bạn bè nói mình thế nào thì chắc chắn mình đúng là như thế, không cần tự xem xét nữa.”\n\n🔍 Ai có cách tự nhận thức CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Mình học Toán tốt nhưng cần cải thiện khả năng trình bày.”",
+        "B": "Mai: “Bạn góp ý thì mình lắng nghe rồi xem điều đó có đúng không.”",
+        "C": "Minh: “Mình thử tham gia câu lạc bộ để khám phá khả năng mới.”",
+        "D": "Nam: “Bạn bè nói mình thế nào thì chắc chắn mình đúng là như thế, không cần tự xem xét nữa.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Bẫy tư duy ở đây: LẮNG NGHE ≠ TIN MỌI NHẬN XÉT. SGK yêu cầu học sinh lắng nghe ý kiến người khác, nhưng sau đó phải đối chiếu, so sánh với tự nhận thức và thực tế của chính mình chứ không mù quáng tin theo mọi lời nói."
+    },
+    {
+      "id": "q-b6-7",
+      "assignmentId": "asg-b6",
+      "order": 7,
+      "taskName": "🗂️ THỬ THÁCH 7 — XẾP ĐÚNG “HÀNH TRÌNH NÂNG CẤP BẢN THÂN”",
+      "points": 10,
+      "content": "Sắp xếp 4 thẻ theo hành trình nâng cấp bản thân hợp lí:\n(🚀 HÀNH ĐỘNG CẢI THIỆN · 🔎 NHẬN RA ĐIỂM MẠNH – ĐIỂM YẾU · 🌱 TIẾN BỘ · 🎯 CHỌN ĐIỀU CẦN PHÁT HUY/KHẮC PHỤC)\n\nHành trình của em:\n① __________ ⬇️ ② __________ ⬇️ ③ __________ ⬇️ ④ __________ 🏆",
+      "options": {
+        "A": "① NHẬN RA ĐIỂM MẠNH – ĐIỂM YẾU → ② CHỌN ĐIỀU CẦN PHÁT HUY/KHẮC PHỤC → ③ HÀNH ĐỘNG CẢI THIỆN → ④ TIẾN BỘ 🏆",
+        "B": "① CHỌN ĐIỀU CẦN PHÁT HUY/KHẮC PHỤC → ② NHẬN RA ĐIỂM MẠNH – ĐIỂM YẾU → ③ HÀNH ĐỘNG CẢI THIỆN → ④ TIẾN BỘ 🏆",
+        "C": "① NHẬN RA ĐIỂM MẠNH – ĐIỂM YẾU → ② HÀNH ĐỘNG CẢI THIỆN → ③ CHỌN ĐIỀU CẦN PHÁT HUY/KHẮC PHỤC → ④ TIẾN BỘ 🏆",
+        "D": "① HÀNH ĐỘNG CẢI THIỆN → ② NHẬN RA ĐIỂM MẠNH – ĐIỂM YẾU → ③ CHỌN ĐIỀU CẦN PHÁT HUY/KHẮC PHỤC → ④ TIẾN BỘ 🏆"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Thứ tự hành trình chuẩn: Nhận ra điểm mạnh – điểm yếu ➔ Chọn điều cần phát huy / khắc phục ➔ Lên kế hoạch và hành động cải thiện ➔ Đạt được sự tiến bộ và trưởng thành 🏆"
+    },
+    {
+      "id": "q-b6-8",
+      "assignmentId": "asg-b6",
+      "order": 8,
+      "taskName": "🏆 THỬ THÁCH 8 — BOSS LEVEL 🎭 “MÌNH KHÔNG CÓ NĂNG KHIẾU!”",
+      "points": 15,
+      "content": "Vy tham gia thuyết trình lần đầu nhưng nói nhỏ và quên một vài ý. Sau giờ học, Vy nghĩ: 😔 “Mình không có năng khiếu thuyết trình. Từ nay mình sẽ không bao giờ thuyết trình nữa.”\n\nVy nên làm gì?\n\n🔐 THỬ THÁCH TRÍ NHỚ 20 GIÂY — “4 CHIẾC GƯƠNG HIỂU MÌNH”:\n👀 1. TỰ QUAN SÁT (Mình đang nghĩ – cảm thấy – hành động thế nào?)\n📊 2. NHÌN VÀO KẾT QUẢ (Mình làm tốt/chưa tốt điều gì?)\n👂 3. LẮNG NGHE (Người khác nhìn thấy điều gì ở mình?)\n🚀 4. TRẢI NGHIỆM (Thử sức để khám phá thêm chính mình)\n→ 🌱 HIỂU MÌNH ➔ PHÁT TRIỂN MÌNH.\n\n❤️ TẤM VÉ RỜI KHỎI BÀI HỌC: “Hiểu mình không phải để tự phán xét — mà để biết mình có thể tiến về đâu.”",
+      "options": {
+        "A": "Không tham gia nữa vì thất bại một lần đã chứng minh mình không có khả năng.",
+        "B": "So sánh mình với bạn giỏi nhất lớp rồi cố bắt chước hoàn toàn bạn ấy.",
+        "C": "Xem lại điều mình làm được và chưa được, hỏi thêm góp ý, luyện tập rồi thử lại.",
+        "D": "Chỉ hỏi những người chắc chắn sẽ khen mình."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Xem lại điều mình làm được và chưa được, hỏi thêm góp ý, luyện tập rồi thử lại. Một kết quả chưa tốt trong lần đầu tiên không phải là kết luận cố định về năng lực của bản thân; quan trọng là thái độ dám đối diện, rút kinh nghiệm và kiên trì luyện tập."
+    },
+    {
+      "id": "q-b7-1",
+      "assignmentId": "asg-b7",
+      "order": 1,
+      "taskName": "🚨 THỬ THÁCH 1 — RADAR NGUY HIỂM",
+      "points": 10,
+      "content": "Chọn 4 tình huống có dấu hiệu nguy hiểm:\n\n(1) 🌧️ Mưa rất lớn, nước trên đường đang dâng nhanh.\n(2) 📚 Bạn rủ em cùng đọc sách ở thư viện.\n(3) 🔥 Em ngửi thấy mùi khét và thấy khói phát ra từ ổ điện.\n(4) 🚗 Một người lạ rủ em lên xe để “đưa về gặp bố mẹ”.\n(5) ⚡ Trời có sấm sét, nhóm bạn vẫn đứng dưới cây lớn.\n(6) 🏸 Các bạn chơi cầu lông trong sân trường.",
+      "options": {
+        "A": "(1), (3), (4), (5) — 🌧️ Nước dâng nhanh · 🔥 Khói khét từ ổ điện · 🚗 Người lạ rủ lên xe · ⚡ Trú dưới cây lớn khi sấm sét",
+        "B": "(1), (2), (3), (4) — 🌧️ Nước dâng · 📚 Đọc sách thư viện · 🔥 Khói ổ điện · 🚗 Người lạ rủ lên xe",
+        "C": "(2), (4), (5), (6) — 📚 Đọc sách thư viện · 🚗 Người lạ · ⚡ Trú dưới cây lớn · 🏸 Cầu lông sân trường",
+        "D": "(1), (2), (5), (6) — 🌧️ Nước dâng · 📚 Đọc sách thư viện · ⚡ Trú dưới cây lớn · 🏸 Cầu lông sân trường"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (4), (5). Đây là những tình huống tiềm ẩn nguy hiểm nghiêm trọng từ thiên tai (mưa ngập, sấm sét) và con người (chập cháy điện, nguy cơ bắt cóc từ người lạ). Các tình huống (2) và (6) là hoạt động học tập, thể thao an toàn và lành mạnh."
+    },
+    {
+      "id": "q-b7-2",
+      "assignmentId": "asg-b7",
+      "order": 2,
+      "taskName": "🧩 THỬ THÁCH 2 — KÉO THẢ “NGUY HIỂM ĐẾN TỪ ĐÂU?”",
+      "points": 15,
+      "content": "Kéo từng thẻ vào đúng vùng:\n\n🌪️ NGUY HIỂM TỪ TỰ NHIÊN  |  👤 NGUY HIỂM TỪ CON NGƯỜI\n\nCác thẻ:\n(1) 🌊 Lũ quét\n(2) 🚨 Người lạ cố kéo em đi\n(3) ⛰️ Sạt lở đất\n(4) 🔥 Một người bất cẩn gây cháy\n(5) ⚡ Sét\n(6) 👊 Người khác đe dọa, tấn công\n\n💡 SGK GDCD 6 phân biệt: Nguy hiểm từ hiện tượng tự nhiên và nguy hiểm phát sinh từ hành vi cố ý hoặc vô tình của con người.",
+      "options": {
+        "A": "🌪️ Nguy hiểm từ tự nhiên: (1, 3, 5) · 👤 Nguy hiểm từ con người: (2, 4, 6)",
+        "B": "🌪️ Nguy hiểm từ tự nhiên: (2, 4, 6) · 👤 Nguy hiểm từ con người: (1, 3, 5)",
+        "C": "🌪️ Nguy hiểm từ tự nhiên: (1, 2, 5) · 👤 Nguy hiểm từ con người: (3, 4, 6)",
+        "D": "🌪️ Nguy hiểm từ tự nhiên: (3, 4, 5) · 👤 Nguy hiểm từ con người: (1, 2, 6)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chính xác:\n- 🌪️ Nguy hiểm từ tự nhiên: (1) Lũ quét; (3) Sạt lở đất; (5) Sét.\n- 👤 Nguy hiểm từ con người: (2) Người lạ cố kéo em đi; (4) Một người bất cẩn gây cháy; (6) Người khác đe dọa, tấn công."
+    },
+    {
+      "id": "q-b7-3",
+      "assignmentId": "asg-b7",
+      "order": 3,
+      "taskName": "🔗 THỬ THÁCH 3 — NỐI NHANH ĐỂ AN TOÀN",
+      "points": 10,
+      "content": "Nối mỗi dấu hiệu nguy hiểm với hành động phản ứng phù hợp nhất:\n\n🚨 Dấu hiệu:\nA. Phát hiện cháy\nB. Người lạ cố lôi kéo\nC. Mưa dông, sét\nD. Có cảnh báo lũ, sạt lở\n\n↔️ 🛡️ Phản ứng:\n① Tìm nơi trú an toàn\n② Báo động, thoát ra nơi an toàn\n③ Kêu cứu, tìm người hỗ trợ\n④ Theo dõi cảnh báo và tránh khu vực nguy hiểm\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ② (Báo động, thoát ra an toàn) · B → ③ (Kêu cứu, tìm hỗ trợ) · C → ① (Tìm nơi trú an toàn) · D → ④ (Theo dõi cảnh báo & tránh xa)",
+        "B": "A → ① (Tìm nơi trú an toàn) · B → ② (Báo động, thoát ra an toàn) · C → ③ (Kêu cứu, tìm hỗ trợ) · D → ④ (Theo dõi cảnh báo & tránh xa)",
+        "C": "A → ③ (Kêu cứu, tìm hỗ trợ) · B → ④ (Theo dõi cảnh báo) · C → ② (Báo động, thoát ra an toàn) · D → ① (Tìm nơi trú an toàn)",
+        "D": "A → ② (Báo động, thoát ra an toàn) · B → ① (Tìm nơi trú an toàn) · C → ③ (Kêu cứu, tìm hỗ trợ) · D → ④ (Theo dõi cảnh báo & tránh xa)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–2, B–3, C–1, D–4:\n- A → ②: Phát hiện cháy = Báo động, thoát ra nơi an toàn.\n- B → ③: Người lạ cố lôi kéo = Kêu cứu, tìm người hỗ trợ.\n- C → ①: Mưa dông, sét = Tìm nơi trú an toàn (nhà kiên cố, tránh cây to/cột điện).\n- D → ④: Có cảnh báo lũ, sạt lở = Theo dõi cảnh báo và tránh khu vực nguy hiểm."
+    },
+    {
+      "id": "q-b7-4",
+      "assignmentId": "asg-b7",
+      "order": 4,
+      "taskName": "🧠 THỬ THÁCH 4 — MỞ KHÓA “CÔNG THỨC AN TOÀN”",
+      "points": 15,
+      "content": "Kéo 4 từ vào đúng vị trí:\n(BÌNH TĨNH • NHẬN DIỆN • TRỢ GIÚP • AN TOÀN)\n\n🚨 __________ (1) NGUY HIỂM\n⬇️\n🧠 GIỮ __________ (2)\n⬇️\n🏃 DI CHUYỂN/THOÁT ĐẾN NƠI __________ (3)\n⬇️\n📞 TÌM SỰ __________ (4)\n\n🔐 Mật mã cần nhớ: NHẬN RA ➔ BÌNH TĨNH ➔ AN TOÀN ➔ TRỢ GIÚP.",
+      "options": {
+        "A": "(1) NHẬN DIỆN → (2) BÌNH TĨNH → (3) AN TOÀN → (4) TRỢ GIÚP",
+        "B": "(1) BÌNH TĨNH → (2) NHẬN DIỆN → (3) TRỢ GIÚP → (4) AN TOÀN",
+        "C": "(1) NHẬN DIỆN → (2) AN TOÀN → (3) BÌNH TĨNH → (4) TRỢ GIÚP",
+        "D": "(1) AN TOÀN → (2) BÌNH TĨNH → (3) NHẬN DIỆN → (4) TRỢ GIÚP"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Công thức an toàn sinh tồn:\n🚨 NHẬN DIỆN NGUY HIỂM ➔ 🧠 GIỮ BÌNH TĨNH ➔ 🏃 DI CHUYỂN/THOÁT ĐẾN NƠI AN TOÀN ➔ 📞 TÌM SỰ TRỢ GIÚP."
+    },
+    {
+      "id": "q-b7-5",
+      "assignmentId": "asg-b7",
+      "order": 5,
+      "taskName": "⚡ THỬ THÁCH 5 — ĐÚNG HAY SAI? “BẪY AN TOÀN”",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① 🔥 Khi có cháy, ưu tiên nhanh chóng tìm đường thoát an toàn thay vì quay lại lấy đồ.\n② ⚡ Khi có sấm sét, đứng trú dưới cây cao là lựa chọn an toàn.\n③ 🌊 Khi thấy người khác đuối nước, học sinh không biết cứu hộ nên tìm người có khả năng hỗ trợ thay vì tự lao xuống nước.\n④ 🚨 Khi gặp nguy hiểm từ người lạ, có thể hét lớn để thu hút sự chú ý và tìm người đáng tin cậy giúp đỡ.",
+      "options": {
+        "A": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "B": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "C": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Đúng – Sai – Đúng – Đúng:\n- ① Đúng: Thoát nạn bảo vệ tính mạng là ưu tiên số 1, tuyệt đối không tiếc của quay lại.\n- ② Sai: Cây cao hút sét rất mạnh, đứng dưới cây cao là sai lầm chết người.\n- ③ Đúng: Cứu đuối nước đòi hỏi chuyên môn cao; cần hô hoán, ném vật nổi và tìm người lớn cứu giúp.\n- ④ Đúng: Hét lớn và chạy về phía người đáng tin cậy giúp thoát khỏi kẻ xấu."
+    },
+    {
+      "id": "q-b7-6",
+      "assignmentId": "asg-b7",
+      "order": 6,
+      "taskName": "🕵️ THỬ THÁCH 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Một nhóm bạn nói về cách ứng phó khi gặp nguy hiểm:\n\n🟢 An: “Việc đầu tiên là cố giữ bình tĩnh.”\n🔵 Mai: “Mình cần nhanh chóng tìm cách đưa bản thân đến nơi an toàn.”\n🟣 Minh: “Nếu vượt quá khả năng, mình phải tìm người có thể giúp.”\n🔴 Nam: “Gặp nguy hiểm thì cứ tự mình xử lí để chứng tỏ mình dũng cảm.”\n\n🔍 Ai có suy nghĩ NGUY HIỂM NHẤT?",
+      "options": {
+        "A": "An: “Việc đầu tiên là cố giữ bình tĩnh.”",
+        "B": "Mai: “Mình cần nhanh chóng tìm cách đưa bản thân đến nơi an toàn.”",
+        "C": "Minh: “Nếu vượt quá khả năng, mình phải tìm người có thể giúp.”",
+        "D": "Nam: “Gặp nguy hiểm thì cứ tự mình xử lí để chứng tỏ mình dũng cảm.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). 💡 Bẫy tư duy: DŨNG CẢM ≠ LIỀU LĨNH. Mục tiêu cốt lõi là bảo vệ an toàn tính mạng, không phải liều mạng để chứng tỏ bản thân gan dạ."
+    },
+    {
+      "id": "q-b7-7",
+      "assignmentId": "asg-b7",
+      "order": 7,
+      "taskName": "🪜 THỬ THÁCH 7 — 5 GIÂY QUYẾT ĐỊNH",
+      "points": 10,
+      "content": "Sắp xếp các hành động theo thứ tự hợp lí khi đối mặt tình huống nguy hiểm:\n(📞 TÌM NGƯỜI TRỢ GIÚP · 👀 NHẬN RA NGUY HIỂM · 🧠 GIỮ BÌNH TĨNH · 🏃 TRÁNH XA/THOÁT KHỎI NGUY HIỂM)\n\n🚨 Quy trình của em:\n① __________ ⬇️ ② __________ ⬇️ ③ __________ ⬇️ ④ __________ 🛡️",
+      "options": {
+        "A": "① NHẬN RA NGUY HIỂM → ② GIỮ BÌNH TĨNH → ③ TRÁNH XA/THOÁT KHỎI NGUY HIỂM → ④ TÌM NGƯỜI TRỢ GIÚP 🛡️",
+        "B": "① GIỮ BÌNH TĨNH → ② NHẬN RA NGUY HIỂM → ③ TRÁNH XA/THOÁT KHỎI NGUY HIỂM → ④ TÌM NGƯỜI TRỢ GIÚP 🛡️",
+        "C": "① NHẬN RA NGUY HIỂM → ② TRÁNH XA/THOÁT KHỎI NGUY HIỂM → ③ GIỮ BÌNH TĨNH → ④ TÌM NGƯỜI TRỢ GIÚP 🛡️",
+        "D": "① TÌM NGƯỜI TRỢ GIÚP → ② NHẬN RA NGUY HIỂM → ③ GIỮ BÌNH TĨNH → ④ TRÁNH XA/THOÁT KHỎI NGUY HIỂM 🛡️"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Quy trình phản xạ an toàn: Nhận ra nguy hiểm ➔ Giữ bình tĩnh ➔ Tránh xa/thoát khỏi nguy hiểm ➔ Tìm người trợ giúp."
+    },
+    {
+      "id": "q-b7-8",
+      "assignmentId": "asg-b7",
+      "order": 8,
+      "taskName": "🏆 THỬ THÁCH 8 — BOSS LEVEL 🎮 “30 GIÂY SINH TỒN”",
+      "points": 15,
+      "content": "Tan học, Minh đang đi cùng một người bạn thì trời đột nhiên mưa rất lớn. Nước trên đoạn đường phía trước dâng nhanh. Bạn nói: 😎 “Đi qua luôn đi! Đường này ngày nào mình chẳng đi.”\n\nMinh nên chọn cách nào?\n\n🎁 PHẢN XẠ AN TOÀN (3 GIÂY):\n🔥 Có cháy: AN TOÀN (thay vì đồ đạc)\n⚡ Có sét: NƠI TRÚ AN TOÀN (thay vì cây cao)\n🚨 Nguy hiểm vượt khả năng: TÌM TRỢ GIÚP (thay vì tự xử lí)\n\n🔐 4 CHÌA KHÓA SINH TỒN:\n👀 1. Nhận diện ➔ 🧠 2. Bình tĩnh ➔ 🏃 3. An toàn ➔ 📣 4. Trợ giúp ➔ 🛡️ BẢO VỆ AN TOÀN",
+      "options": {
+        "A": "Đi qua thật nhanh trước khi nước dâng cao hơn.",
+        "B": "Thử bước xuống nước xem có sâu không.",
+        "C": "Không đi vào vùng nước nguy hiểm; tìm vị trí an toàn và nhờ người lớn/hỗ trợ phù hợp.",
+        "D": "Đứng gần dòng nước để quay video."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Không đi vào vùng nước nguy hiểm; tìm vị trí an toàn và nhờ người lớn/hỗ trợ phù hợp. Điểm khó: “Quen thuộc” không đồng nghĩa với “an toàn”. Dòng nước lũ ngập sâu chảy xiết có thể cuốn trôi người hoặc sụp hố ga, nắp cống bị trôi mất rất nguy hiểm."
+    },
+    {
+      "id": "q-b8-1",
+      "assignmentId": "asg-b8",
+      "order": 1,
+      "taskName": "⚡ THỬ THÁCH 1 — “TIẾT KIỆM HAY LÃNG PHÍ?”",
+      "points": 10,
+      "content": "Chọn 4 hành động thể hiện tiết kiệm:\n\n(1) 💡 Ra khỏi phòng, tắt thiết bị điện không cần sử dụng.\n(2) 📒 Vở còn nhiều trang trắng nhưng đổi vở mới vì thích mẫu bìa khác.\n(3) 💧 Khóa vòi nước ngay sau khi sử dụng.\n(4) ⏰ Lập kế hoạch để hoàn thành bài đúng thời gian.\n(5) 🛍️ Thấy món đồ đang giảm giá nên mua dù không cần.\n(6) ✏️ Giữ gìn và sử dụng đồ dùng học tập còn tốt.",
+      "options": {
+        "A": "(1), (3), (4), (6) — 💡 Tắt điện khi ra khỏi phòng · 💧 Khóa vòi nước sau khi dùng · ⏰ Lập kế hoạch học tập · ✏️ Giữ gìn đồ dùng học tập",
+        "B": "(1), (2), (3), (4) — 💡 Tắt điện · 📒 Đổi vở mới khi còn trang trắng · 💧 Khóa vòi nước · ⏰ Lập kế hoạch",
+        "C": "(2), (4), (5), (6) — 📒 Đổi vở vì thích bìa · ⏰ Lập kế hoạch · 🛍️ Mua đồ giảm giá dù không cần · ✏️ Giữ gìn đồ dùng",
+        "D": "(1), (3), (5), (6) — 💡 Tắt điện · 💧 Khóa vòi nước · 🛍️ Mua đồ giảm giá dù không cần · ✏️ Giữ gìn đồ dùng"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (4), (6). Đây là các hành động tiết kiệm điện năng, nguồn nước, thời gian học tập và giữ gìn đồ dùng học tập. Các hành vi (2) và (5) là lãng phí tiền bạc và của cải vật chất khi mua sắm theo sở thích mà không thực sự cần thiết."
+    },
+    {
+      "id": "q-b8-2",
+      "assignmentId": "asg-b8",
+      "order": 2,
+      "taskName": "🧩 THỬ THÁCH 2 — KÉO THẢ “4 CHIẾC VÍ TIẾT KIỆM”",
+      "points": 15,
+      "content": "Kéo mỗi hành động vào đúng chiếc ví:\n\n💰 TIỀN BẠC  |  ⏰ THỜI GIAN  |  💧 ĐIỆN – NƯỚC  |  🎒 ĐỒ DÙNG\n\nCác thẻ:\n(1) 🛒 Chỉ mua món đồ thực sự cần.\n(2) 📅 Làm việc theo kế hoạch.\n(3) 🚰 Khóa vòi nước khi không dùng.\n(4) 📚 Giữ sách để có thể sử dụng lâu dài.\n(5) 💡 Tắt đèn khi ra khỏi phòng.\n(6) 🎮 Không để trò chơi chiếm hết thời gian học.",
+      "options": {
+        "A": "💰 Tiền bạc: (1) · ⏰ Thời gian: (2, 6) · 💧 Điện – Nước: (3, 5) · 🎒 Đồ dùng: (4)",
+        "B": "💰 Tiền bạc: (1, 4) · ⏰ Thời gian: (2) · 💧 Điện – Nước: (3, 5) · 🎒 Đồ dùng: (6)",
+        "C": "💰 Tiền bạc: (3, 5) · ⏰ Thời gian: (2, 6) · 💧 Điện – Nước: (1) · 🎒 Đồ dùng: (4)",
+        "D": "💰 Tiền bạc: (1) · ⏰ Thời gian: (3, 5) · 💧 Điện – Nước: (2, 6) · 🎒 Đồ dùng: (4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác theo SGK GDCD 6:\n- 💰 Tiền bạc: (1) Chỉ mua món đồ thực sự cần.\n- ⏰ Thời gian: (2) Làm việc theo kế hoạch; (6) Không để trò chơi chiếm hết thời gian học.\n- 💧 Điện – Nước: (3) Khóa vòi nước khi không dùng; (5) Tắt đèn khi ra khỏi phòng.\n- 🎒 Đồ dùng: (4) Giữ sách để có thể sử dụng lâu dài."
+    },
+    {
+      "id": "q-b8-3",
+      "assignmentId": "asg-b8",
+      "order": 3,
+      "taskName": "🔗 THỬ THÁCH 3 — NỐI “VIỆC NHỎ → GIÁ TRỊ LỚN”",
+      "points": 10,
+      "content": "Nối hành động với giá trị phù hợp nhất:\n\nHành động:\nA. Bảo quản đồ dùng cẩn thận\nB. Không mua đồ chỉ vì chạy theo bạn bè\nC. Hoàn thành việc đúng kế hoạch\nD. Không để nước chảy vô ích\n\n↔️ Giá trị phù hợp nhất:\n① Sử dụng thời gian hợp lí\n② Tránh hao phí tài nguyên\n③ Kéo dài thời gian sử dụng\n④ Chi tiêu hợp lí\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ③ (Kéo dài thời gian sử dụng) · B → ④ (Chi tiêu hợp lí) · C → ① (Sử dụng thời gian hợp lí) · D → ② (Tránh hao phí tài nguyên)",
+        "B": "A → ① (Sử dụng thời gian hợp lí) · B → ② (Tránh hao phí tài nguyên) · C → ③ (Kéo dài thời gian sử dụng) · D → ④ (Chi tiêu hợp lí)",
+        "C": "A → ④ (Chi tiêu hợp lí) · B → ③ (Kéo dài thời gian sử dụng) · C → ① (Sử dụng thời gian hợp lí) · D → ② (Tránh hao phí tài nguyên)",
+        "D": "A → ③ (Kéo dài thời gian sử dụng) · B → ① (Sử dụng thời gian hợp lí) · C → ④ (Chi tiêu hợp lí) · D → ② (Tránh hao phí tài nguyên)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–3, B–4, C–1, D–2:\n- A → ③: Bảo quản đồ dùng cẩn thận = Kéo dài thời gian sử dụng.\n- B → ④: Không mua đồ chạy theo bạn bè = Chi tiêu hợp lí.\n- C → ①: Hoàn thành việc đúng kế hoạch = Sử dụng thời gian hợp lí.\n- D → ②: Không để nước chảy vô ích = Tránh hao phí tài nguyên."
+    },
+    {
+      "id": "q-b8-4",
+      "assignmentId": "asg-b8",
+      "order": 4,
+      "taskName": "🧠 THỬ THÁCH 4 — GIẢI MÃ “DNA TIẾT KIỆM”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng vị trí:\n(HỢP LÍ • ĐÚNG MỨC • THỜI GIAN • SỨC LỰC)\n\n\"💡 Tiết kiệm là biết sử dụng một cách __________ (1), __________ (2) của cải vật chất, __________ (3) và __________ (4) của mình cũng như của người khác.\"\n\n🔐 Mẹo nhớ: TIẾT KIỆM không phải “DÙNG ÍT NHẤT” mà là 🎯 DÙNG ĐÚNG – DÙNG ĐỦ – DÙNG HỢP LÍ.",
+      "options": {
+        "A": "(1) HỢP LÍ → (2) ĐÚNG MỨC → (3) THỜI GIAN → (4) SỨC LỰC",
+        "B": "(1) ĐÚNG MỨC → (2) HỢP LÍ → (3) SỨC LỰC → (4) THỜI GIAN",
+        "C": "(1) HỢP LÍ → (2) THỜI GIAN → (3) ĐÚNG MỨC → (4) SỨC LỰC",
+        "D": "(1) THỜI GIAN → (2) SỨC LỰC → (3) HỢP LÍ → (4) ĐÚNG MỨC"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Khái niệm chuẩn mực SGK GDCD 6:\n\"💡 Tiết kiệm là biết sử dụng một cách HỢP LÍ, ĐÚNG MỨC của cải vật chất, THỜI GIAN và SỨC LỰC của mình cũng như của người khác.\""
+    },
+    {
+      "id": "q-b8-5",
+      "assignmentId": "asg-b8",
+      "order": 5,
+      "taskName": "⚡ THỬ THÁCH 5 — ĐÚNG HAY SAI? 🧨 “BẪY TƯ DUY”",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① 💰 Tiết kiệm nghĩa là càng ít tiêu tiền càng tốt.\n② ⏰ Không sử dụng thời gian hợp lí cũng là một dạng lãng phí.\n③ 🎒 Giữ gìn đồ dùng để sử dụng được lâu hơn là biểu hiện của tiết kiệm.\n④ 💧 Điện, nước và các tài nguyên khác cũng cần được sử dụng hợp lí.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ SAI 👎 · ④ ĐÚNG 👍",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Đúng – Đúng:\n- ① Sai: Tiết kiệm không phải keo kiệt bủn xỉn; những việc cần thiết chính đáng thì vẫn cần chi tiêu hợp lí.\n- ② Đúng: Thời gian trôi qua không lấy lại được, lãng phí thời gian cũng là lãng phí tài sản quý giá.\n- ③ Đúng: Bảo quản đồ dùng giúp tăng tuổi thọ và giảm chi phí mua sắm.\n- ④ Đúng: Nguồn điện, nước là tài nguyên hữu hạn cần sử dụng có ý thức và đúng mức."
+    },
+    {
+      "id": "q-b8-6",
+      "assignmentId": "asg-b8",
+      "order": 6,
+      "taskName": "🕵️ THỬ THÁCH 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn chia sẻ bí quyết tiết kiệm:\n\n🟢 An: “Mình suy nghĩ xem có thực sự cần trước khi mua.”\n🔵 Mai: “Đồ còn dùng tốt thì mình tiếp tục sử dụng.”\n🟣 Minh: “Mình cố gắng sử dụng thời gian theo kế hoạch.”\n🔴 Nam: “Muốn tiết kiệm thì tốt nhất không nên chi tiền cho bất cứ việc gì.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Mình suy nghĩ xem có thực sự cần trước khi mua.”",
+        "B": "Mai: “Đồ còn dùng tốt thì mình tiếp tục sử dụng.”",
+        "C": "Minh: “Mình cố gắng sử dụng thời gian theo kế hoạch.”",
+        "D": "Nam: “Muốn tiết kiệm thì tốt nhất không nên chi tiền cho bất cứ việc gì.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). 🧠 Bẫy nằm ở chỗ: TIẾT KIỆM ≠ KHÔNG CHI TIÊU. Tiết kiệm không phải là bủn xỉn, keo kiệt nhịn ăn nhịn mặc hay từ chối chi tiêu các khoản cần thiết cho học tập, sức khỏe; mấu chốt là: CẦN THIẾT ➔ HỢP LÍ ➔ ĐÚNG MỨC."
+    },
+    {
+      "id": "q-b8-7",
+      "assignmentId": "asg-b8",
+      "order": 7,
+      "taskName": "🚦 THỬ THÁCH 7 — “ĐÈN XANH, ĐÈN VÀNG, ĐÈN ĐỎ”",
+      "points": 10,
+      "content": "Phân loại 6 hành động:\n\n🟢 TIẾT KIỆM  |  🔴 LÃNG PHÍ / SAI LỆCH\n\nCác thẻ:\n① Dùng lại mặt giấy còn trắng để nháp.\n② Không mua thuốc khi bị bệnh vì muốn giữ tiền.\n③ Mua thêm một hộp bút dù ở nhà đã có nhiều hộp còn tốt.\n④ Dùng tiền để mua cuốn sách thực sự cần cho học tập.\n⑤ Tắt thiết bị điện khi không sử dụng.\n⑥ Nhịn ăn sáng để dành tiền mua món đồ mình thích.\n\n💡 Điểm phân hóa: Có chi tiền chưa chắc là lãng phí; không chi tiền chưa chắc là tiết kiệm.",
+      "options": {
+        "A": "🟢 Tiết kiệm: (1, 4, 5) · 🔴 Lãng phí / Sai lệch: (2, 3, 6)",
+        "B": "🟢 Tiết kiệm: (1, 2, 4) · 🔴 Lãng phí / Sai lệch: (3, 5, 6)",
+        "C": "🟢 Tiết kiệm: (4, 5, 6) · 🔴 Lãng phí / Sai lệch: (1, 2, 3)",
+        "D": "🟢 Tiết kiệm: (1, 5) · 🔴 Lãng phí / Sai lệch: (2, 3, 4, 6)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác: 🟢 (1, 4, 5) | 🔴 (2, 3, 6):\n- 🟢 Tiết kiệm (1, 4, 5): Tái sử dụng giấy nháp; Mua sách cần thiết cho học tập; Tắt điện khi không dùng.\n- 🔴 Lãng phí / Sai lệch (2, 3, 6): Không mua thuốc khi bệnh (keo kiệt hại sức khỏe); Mua thừa hộp bút (lãng phí của cải); Nhịn ăn sáng để mua đồ (sai lầm gây hại cơ thể)."
+    },
+    {
+      "id": "q-b8-8",
+      "assignmentId": "asg-b8",
+      "order": 8,
+      "taskName": "🏆 THỬ THÁCH 8 — BOSS LEVEL 🎮 “GIẢM 50% — MUA HAY KHÔNG?”",
+      "points": 15,
+      "content": "Hà đã có một chiếc bình nước còn rất tốt. Khi đi siêu thị, Hà thấy một chiếc bình mới rất đẹp với bảng: 🔥 SALE 50% – CHỈ HÔM NAY! Bạn Hà nói: 😍 “Giảm một nửa giá rồi! Mua ngay mới là tiết kiệm!”\n\nHà nên làm gì?\n\n🎁 BONUS “5 GIÂY QUYẾT ĐỊNH”:\n💰 Đồ rất rẻ nhưng không cần ➔ KHÔNG MUA\n💧 Đang đánh răng ➔ KHÓA VÒI\n⏰ 30 phút trước giờ học ➔ CHỌN VIỆC CẦN LÀM\n🎒 Bút vẫn dùng tốt ➔ DÙNG TIẾP\n\n🔐 4 CHÌA KHÓA TIẾT KIỆM:\n💰 Tiền (chi tiêu hợp lí) ➔ 🎒 Đồ dùng (giữ gìn hiệu quả) ➔ ⏰ Thời gian (có kế hoạch) ➔ 💧⚡ Tài nguyên (dùng đủ, không thất thoát) ➔ 🌱 KẾT QUẢ: Trân trọng thành quả lao động, Cuộc sống ổn định, Sử dụng nguồn lực hợp lí.",
+      "options": {
+        "A": "Mua ngay vì món đồ giảm giá luôn là món hời.",
+        "B": "Mua hai chiếc vì đang giảm 50%.",
+        "C": "Xem mình có thực sự cần không; nếu bình hiện tại vẫn đáp ứng tốt thì chưa cần mua.",
+        "D": "Không bao giờ mua bình mới nữa dù bình cũ sau này bị hỏng."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Xem mình có thực sự cần không; nếu bình hiện tại vẫn đáp ứng tốt thì chưa cần mua. 💡 GIÁ RẺ ≠ TIẾT KIỆM. Mua một món đồ không cần thiết (dù được giảm giá sâu) vẫn là lãng phí tiền bạc."
+    },
+    {
+      "id": "q-b9-1",
+      "assignmentId": "asg-b9",
+      "order": 1,
+      "taskName": "🔎 NHIỆM VỤ 1 — SĂN TÌM “CHÌA KHÓA”",
+      "points": 10,
+      "content": "Chọn 3 nhận định đúng:\n\n(1) Công dân là người dân của một nước.\n(2) Cứ sống ở Việt Nam thì chắc chắn là công dân Việt Nam.\n(3) Công dân có các quyền và nghĩa vụ do pháp luật quy định.\n(4) Quốc tịch là căn cứ xác định công dân của một nước.\n(5) Người nói tiếng Việt đều là công dân Việt Nam.\n(6) Người sinh ra ở Việt Nam luôn luôn là công dân Việt Nam.",
+      "options": {
+        "A": "(1), (3), (4) — Công dân là người dân một nước · Công dân có quyền và nghĩa vụ do pháp luật quy định · Quốc tịch là căn cứ xác định công dân",
+        "B": "(1), (2), (3) — Công dân là người dân một nước · Cứ sống ở VN là công dân VN · Có quyền và nghĩa vụ",
+        "C": "(2), (4), (5) — Cứ sống ở VN là công dân VN · Quốc tịch là căn cứ · Nói tiếng Việt là công dân VN",
+        "D": "(1), (4), (6) — Công dân là người dân một nước · Quốc tịch là căn cứ · Sinh ra ở VN luôn là công dân VN"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (4). Đây là các định nghĩa và nguyên tắc căn bản của Luật Quốc tịch và Hiến pháp. Các nhận định (2), (5), (6) sai vì người nước ngoài đang ở Việt Nam hoặc người biết tiếng Việt không mặc nhiên mang quốc tịch Việt Nam."
+    },
+    {
+      "id": "q-b9-2",
+      "assignmentId": "asg-b9",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ “ĐÚNG NHÀ”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào đúng nhóm:\n\n🪪 CĂN CỨ XÁC ĐỊNH CÔNG DÂN  |  ❌ KHÔNG PHẢI CĂN CỨ\n\nCác thẻ:\n(1) 🌏 Quốc tịch\n(2) 🏠 Nơi đang sinh sống\n(3) 🗣️ Ngôn ngữ sử dụng\n(4) 🎨 Màu da\n(5) 👨👩👧 Quan hệ giữa cá nhân với Nhà nước thông qua quốc tịch\n(6) ❤️ Yêu thích một đất nước",
+      "options": {
+        "A": "🪪 Căn cứ xác định công dân: (1, 5) · ❌ Không phải căn cứ: (2, 3, 4, 6)",
+        "B": "🪪 Căn cứ xác định công dân: (1, 2) · ❌ Không phải căn cứ: (3, 4, 5, 6)",
+        "C": "🪪 Căn cứ xác định công dân: (1, 3, 5) · ❌ Không phải căn cứ: (2, 4, 6)",
+        "D": "🪪 Căn cứ xác định công dân: (2, 4, 6) · ❌ Không phải căn cứ: (1, 3, 5)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác:\n- 🪪 Căn cứ xác định công dân (1, 5): Quốc tịch; Mối quan hệ pháp lý giữa cá nhân với Nhà nước thông qua quốc tịch.\n- ❌ Không phải căn cứ (2, 3, 4, 6): Nơi đang sinh sống; Ngôn ngữ sử dụng; Màu da; Tình cảm yêu thích một đất nước."
+    },
+    {
+      "id": "q-b9-3",
+      "assignmentId": "asg-b9",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI “MẢNH GHÉP CÔNG DÂN”",
+      "points": 10,
+      "content": "Nối mỗi nội dung ở bên trái với ý phù hợp nhất:\n\nA. Công dân\nB. Quốc tịch\nC. Công dân Việt Nam\nD. Pháp luật\n\n↔️\n① Người có quốc tịch Việt Nam\n② Căn cứ xác định công dân của một nước\n③ Quy định quyền và nghĩa vụ của công dân\n④ Người dân của một nước\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ④ (Người dân một nước) · B → ② (Căn cứ xác định công dân) · C → ① (Người có quốc tịch VN) · D → ③ (Quy định quyền và nghĩa vụ)",
+        "B": "A → ② (Căn cứ xác định công dân) · B → ④ (Người dân một nước) · C → ③ (Quy định quyền và nghĩa vụ) · D → ① (Người có quốc tịch VN)",
+        "C": "A → ① (Người có quốc tịch VN) · B → ② (Căn cứ xác định công dân) · C → ④ (Người dân một nước) · D → ③ (Quy định quyền và nghĩa vụ)",
+        "D": "A → ④ (Người dân một nước) · B → ① (Người có quốc tịch VN) · C → ② (Căn cứ xác định công dân) · D → ③ (Quy định quyền và nghĩa vụ)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chuẩn xác: A–4, B–2, C–1, D–3:\n- A → ④: Công dân = Người dân của một nước.\n- B → ②: Quốc tịch = Căn cứ xác định công dân của một nước.\n- C → ①: Công dân Việt Nam = Người có quốc tịch Việt Nam.\n- D → ③: Pháp luật = Quy định quyền và nghĩa vụ của công dân."
+    },
+    {
+      "id": "q-b9-4",
+      "assignmentId": "asg-b9",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — GIẢI MÃ “CÔNG THỨC CÔNG DÂN”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng chỗ:\n(QUỐC TỊCH • CÔNG DÂN • VIỆT NAM • PHÁP LUẬT)\n\n\"🧑 __________ (1) là người dân của một nước, có các quyền và nghĩa vụ do __________ (2) quy định.\n🇻🇳 Người có __________ (3) Việt Nam là công dân __________ (4).\"",
+      "options": {
+        "A": "(1) CÔNG DÂN → (2) PHÁP LUẬT → (3) QUỐC TỊCH → (4) VIỆT NAM",
+        "B": "(1) QUỐC TỊCH → (2) PHÁP LUẬT → (3) CÔNG DÂN → (4) VIỆT NAM",
+        "C": "(1) CÔNG DÂN → (2) QUỐC TỊCH → (3) PHÁP LUẬT → (4) VIỆT NAM",
+        "D": "(1) VIỆT NAM → (2) PHÁP LUẬT → (3) QUỐC TỊCH → (4) CÔNG DÂN"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Câu hoàn chỉnh theo SGK GDCD 6:\n\"🧑 CÔNG DÂN là người dân của một nước, có các quyền và nghĩa vụ do PHÁP LUẬT quy định.\n🇻🇳 Người có QUỐC TỊCH Việt Nam là công dân VIỆT NAM.\""
+    },
+    {
+      "id": "q-b9-5",
+      "assignmentId": "asg-b9",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI? 🧨 CẨN THẬN “BẪY”!",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Một người sống lâu năm ở Việt Nam thì tự động trở thành công dân Việt Nam.\n② Quốc tịch là căn cứ để xác định công dân của một nước.\n③ Công dân Việt Nam là người có quốc tịch Việt Nam.\n④ Muốn xác định một người là công dân nước nào, chỉ cần xem người đó đang sống ở đâu.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ ĐÚNG 👍"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Đúng – Sai:\n- ① Sai: Sống lâu năm không tự động có quốc tịch; việc nhập quốc tịch phải theo thủ tục luật định.\n- ② Đúng: Quốc tịch là căn cứ pháp lý để xác định công dân.\n- ③ Đúng: Căn cứ Điều 17 Hiến pháp năm 2013.\n- ④ Sai: Nơi cư trú khác với quốc tịch."
+    },
+    {
+      "id": "q-b9-6",
+      "assignmentId": "asg-b9",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — AI ĐANG NHẦM?",
+      "points": 10,
+      "content": "Bốn bạn cùng nói:\n\n🌱 An: “Muốn xác định công dân của một nước cần căn cứ vào quốc tịch.”\n📚 Mai: “Người có quốc tịch Việt Nam là công dân Việt Nam.”\n🌏 Minh: “Công dân có quyền và nghĩa vụ được pháp luật quy định.”\n😎 Nam: “Chỉ cần đang sống ở Việt Nam thì chắc chắn là công dân Việt Nam.”\n\n🔍 Ai có suy nghĩ CHƯA ĐÚNG?",
+      "options": {
+        "A": "An: “Muốn xác định công dân của một nước cần căn cứ vào quốc tịch.”",
+        "B": "Mai: “Người có quốc tịch Việt Nam là công dân Việt Nam.”",
+        "C": "Minh: “Công dân có quyền và nghĩa vụ được pháp luật quy định.”",
+        "D": "Nam: “Chỉ cần đang sống ở Việt Nam thì chắc chắn là công dân Việt Nam.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Nam đã đồng nhất sai lầm giữa \"nơi đang sinh sống\" với \"quốc tịch\". Người nước ngoài du lịch, học tập, công tác tại Việt Nam vẫn mang quốc tịch nước của họ."
+    },
+    {
+      "id": "q-b9-7",
+      "assignmentId": "asg-b9",
+      "order": 7,
+      "taskName": "🧒 NHIỆM VỤ 7 — THÁM TỬ QUỐC TỊCH: PHÂN LOẠI NHANH",
+      "points": 10,
+      "content": "Dựa vào kiến thức Luật Quốc tịch Việt Nam trong SGK, hãy phân loại từng trường hợp:\n\n🇻🇳 XÁC ĐỊNH CÓ QUỐC TỊCH VIỆT NAM  |  ❓ CHƯA ĐỦ THÔNG TIN ĐỂ KẾT LUẬN\n\nCác trường hợp:\n(1) Bé An sinh ra có cả cha và mẹ đều là công dân Việt Nam.\n(2) Tom là khách du lịch nước ngoài đang ở Việt Nam trong 2 tuần.\n(3) Một em bé bị bỏ rơi, được tìm thấy trên lãnh thổ Việt Nam và không rõ cha mẹ là ai.\n(4) Một người nước ngoài đang học tập tại Việt Nam.\n(5) Một em bé sinh ra trên lãnh thổ Việt Nam, cha mẹ đều là người không quốc tịch nhưng có nơi thường trú tại Việt Nam.",
+      "options": {
+        "A": "🇻🇳 Xác định có quốc tịch VN: (1, 3, 5) · ❓ Chưa đủ thông tin/Không phải công dân VN: (2, 4)",
+        "B": "🇻🇳 Xác định có quốc tịch VN: (1, 2, 5) · ❓ Chưa đủ thông tin/Không phải công dân VN: (3, 4)",
+        "C": "🇻🇳 Xác định có quốc tịch VN: (1, 4) · ❓ Chưa đủ thông tin/Không phải công dân VN: (2, 3, 5)",
+        "D": "🇻🇳 Xác định có quốc tịch VN: (3, 5) · ❓ Chưa đủ thông tin/Không phải công dân VN: (1, 2, 4)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác theo Luật Quốc tịch Việt Nam:\n- 🇻🇳 Có quốc tịch Việt Nam: (1) Cha mẹ đều là công dân Việt Nam (Điều 15); (3) Trẻ sơ sinh bị bỏ rơi được tìm thấy trên lãnh thổ VN không rõ cha mẹ (Điều 18); (5) Sinh ra tại VN, cha mẹ không quốc tịch nhưng thường trú tại VN (Điều 17).\n- ❓ (2, 4): Khách du lịch nước ngoài và du học sinh nước ngoài không phải là công dân Việt Nam."
+    },
+    {
+      "id": "q-b9-8",
+      "assignmentId": "asg-b9",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 🎭 “SINH RA Ở ĐÂU = CÔNG DÂN NƯỚC ĐÓ?”",
+      "points": 15,
+      "content": "Trong giờ thảo luận, Khôi nói: 💬 “Một bạn được sinh ra ở Việt Nam thì chắc chắn là công dân Việt Nam.” Ba bạn đưa ra ý kiến. Em đồng tình với ý kiến nào?\n\n🔐 CHỐT BÀI TRONG 20 GIÂY — “3 CHÌA KHÓA CÔNG DÂN”:\n🧑 CÔNG DÂN (Người dân của một nước) ➔ 🌏 QUỐC TỊCH (Căn cứ xác định công dân của một nước) ➔ 🇻🇳 QUỐC TỊCH VIỆT NAM (Công dân Việt Nam)\n\n🧠 MẬT MÃ CẦN NHỚ: Đang sống ở đâu ≠ Quốc tịch gì. Sinh ở đâu ≠ Luôn tự động xác định công dân. Muốn xác định công dân ➔ Nghĩ đến QUỐC TỊCH.",
+      "options": {
+        "A": "Khôi đúng, chỉ cần sinh tại Việt Nam là đủ.",
+        "B": "Khôi chưa đúng; cần căn cứ vào quốc tịch và các quy định liên quan chứ không thể chỉ dựa vào nơi sinh.",
+        "C": "Muốn là công dân Việt Nam chỉ cần biết nói tiếng Việt.",
+        "D": "Chỉ cần sống ở Việt Nam đủ lâu thì tự động trở thành công dân Việt Nam."
+      },
+      "correctOption": "B",
+      "explanation": "✅ Lựa chọn tối ưu: B — Khôi chưa đúng; cần căn cứ vào quốc tịch và các quy định pháp luật liên quan chứ không thể chỉ dựa vào nơi sinh. Ví dụ: Con của hai công dân nước ngoài sinh ra tại Việt Nam thì quốc tịch của trẻ sẽ theo quốc tịch của cha mẹ, không đương nhiên là công dân Việt Nam."
+    },
+    {
+      "id": "q-b10-1",
+      "assignmentId": "asg-b10",
+      "order": 1,
+      "taskName": "🔎 NHIỆM VỤ 1 — QUYỀN HAY NGHĨA VỤ?",
+      "points": 10,
+      "content": "Chọn 4 nội dung thuộc quyền cơ bản của công dân:\n\n(1) 📚 Được học tập\n(2) 🌳 Bảo vệ môi trường\n(3) 🏥 Được bảo vệ, chăm sóc sức khỏe\n(4) ⚖️ Tuân theo Hiến pháp và pháp luật\n(5) 🔐 Được bảo vệ đời sống riêng tư, bí mật cá nhân\n(6) 💼 Có việc làm\n(7) 💰 Nộp thuế theo quy định\n(8) 🎒 Thực hiện nghĩa vụ học tập",
+      "options": {
+        "A": "(1), (3), (5), (6) — 📚 Được học tập · 🏥 Được chăm sóc sức khỏe · 🔐 Được bảo vệ đời sống riêng tư · 💼 Có việc làm",
+        "B": "(1), (2), (4), (6) — 📚 Được học tập · 🌳 Bảo vệ môi trường · ⚖️ Tuân theo pháp luật · 💼 Có việc làm",
+        "C": "(2), (4), (7), (8) — 🌳 Bảo vệ môi trường · ⚖️ Tuân theo pháp luật · 💰 Nộp thuế · 🎒 Thực hiện nghĩa vụ học tập",
+        "D": "(1), (3), (7), (8) — 📚 Được học tập · 🏥 Được chăm sóc sức khỏe · 💰 Nộp thuế · 🎒 Nghĩa vụ học tập"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (3), (5), (6). Đây là các quyền cơ bản (lợi ích công dân được hưởng). Các nội dung (2), (4), (7), (8) là nghĩa vụ cơ bản (việc công dân phải thực hiện theo quy định của pháp luật)."
+    },
+    {
+      "id": "q-b10-2",
+      "assignmentId": "asg-b10",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ “4 NGÔI NHÀ QUYỀN”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào đúng nhóm quyền theo Hiến pháp:\n\n🗳️ CHÍNH TRỊ  |  🛡️ DÂN SỰ  |  💼 KINH TẾ  |  📚 VĂN HÓA – XÃ HỘI\n\nCác thẻ:\n(1) 🗳️ Bầu cử\n(2) 🔐 Được bảo vệ đời sống riêng tư\n(3) 💼 Có việc làm\n(4) 📚 Học tập\n(5) 💰 Sở hữu tài sản hợp pháp\n(6) 🏥 Được chăm sóc sức khỏe",
+      "options": {
+        "A": "🗳️ Chính trị: (1) · 🛡️ Dân sự: (2) · 💼 Kinh tế: (3, 5) · 📚 Văn hóa – Xã hội: (4, 6)",
+        "B": "🗳️ Chính trị: (1, 2) · 🛡️ Dân sự: (3) · 💼 Kinh tế: (5) · 📚 Văn hóa – Xã hội: (4, 6)",
+        "C": "🗳️ Chính trị: (1) · 🛡️ Dân sự: (2, 5) · 💼 Kinh tế: (3) · 📚 Văn hóa – Xã hội: (4, 6)",
+        "D": "🗳️ Chính trị: (4) · 🛡️ Dân sự: (2) · 💼 Kinh tế: (1, 5) · 📚 Văn hóa – Xã hội: (3, 6)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác theo Hiến pháp và SGK GDCD 6:\n- 🗳️ Quyền chính trị: (1) Bầu cử.\n- 🛡️ Quyền dân sự: (2) Được bảo vệ đời sống riêng tư, bí mật cá nhân.\n- 💼 Quyền kinh tế: (3) Có việc làm; (5) Sở hữu tài sản hợp pháp.\n- 📚 Quyền văn hóa – xã hội: (4) Học tập; (6) Được chăm sóc sức khỏe."
+    },
+    {
+      "id": "q-b10-3",
+      "assignmentId": "asg-b10",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI “QUYỀN ↔ TÌNH HUỐNG”",
+      "points": 10,
+      "content": "Nối mỗi tình huống với quyền phù hợp nhất:\n\nTình huống:\nA. Mai đến trường học mỗi ngày\nB. Bác An làm việc tại một công ty\nC. Lan đi khám khi bị bệnh\nD. Bạn không được tự ý đọc nhật kí của Minh\n\n↔️ Quyền:\n① Quyền được bảo vệ đời sống riêng tư\n② Quyền học tập\n③ Quyền có việc làm\n④ Quyền được chăm sóc sức khỏe\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ② (Quyền học tập) · B → ③ (Quyền có việc làm) · C → ④ (Quyền chăm sóc sức khỏe) · D → ① (Quyền bảo vệ đời sống riêng tư)",
+        "B": "A → ① (Quyền bảo vệ đời sống riêng tư) · B → ② (Quyền học tập) · C → ③ (Quyền có việc làm) · D → ④ (Quyền chăm sóc sức khỏe)",
+        "C": "A → ② (Quyền học tập) · B → ④ (Quyền chăm sóc sức khỏe) · C → ③ (Quyền có việc làm) · D → ① (Quyền bảo vệ đời sống riêng tư)",
+        "D": "A → ③ (Quyền có việc làm) · B → ② (Quyền học tập) · C → ④ (Quyền chăm sóc sức khỏe) · D → ① (Quyền bảo vệ đời sống riêng tư)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–2, B–3, C–4, D–1:\n- A → ②: Mai đến trường học = Quyền học tập.\n- B → ③: Bác An làm việc tại công ty = Quyền có việc làm.\n- C → ④: Lan đi khám khi bị bệnh = Quyền được chăm sóc sức khỏe.\n- D → ①: Không được tự ý đọc nhật kí = Quyền được bảo vệ đời sống riêng tư."
+    },
+    {
+      "id": "q-b10-4",
+      "assignmentId": "asg-b10",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — GIẢI MÃ “CẶP ĐÔI CÔNG DÂN”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng vị trí:\n(HƯỞNG • THỰC HIỆN • QUYỀN • NGHĨA VỤ)\n\n\"⚖️ __________ (1) cơ bản là những lợi ích cơ bản mà công dân được __________ (2).\n🤝 __________ (3) cơ bản là những việc mà công dân phải __________ (4) theo quy định.\"\n\n🔐 Mẹo nhớ: QUYỀN ➔ ĐƯỢC HƯỞNG | NGHĨA VỤ ➔ PHẢI THỰC HIỆN.",
+      "options": {
+        "A": "(1) QUYỀN → (2) HƯỞNG → (3) NGHĨA VỤ → (4) THỰC HIỆN",
+        "B": "(1) NGHĨA VỤ → (2) THỰC HIỆN → (3) QUYỀN → (4) HƯỞNG",
+        "C": "(1) QUYỀN → (2) THỰC HIỆN → (3) NGHĨA VỤ → (4) HƯỞNG",
+        "D": "(1) NGHĨA VỤ → (2) HƯỞNG → (3) QUYỀN → (4) THỰC HIỆN"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Khái niệm cốt lõi SGK GDCD 6:\n- ⚖️ QUYỀN cơ bản là những lợi ích cơ bản mà công dân được HƯỞNG.\n- 🤝 NGHĨA VỤ cơ bản là những việc mà công dân phải THỰC HIỆN theo quy định."
+    },
+    {
+      "id": "q-b10-5",
+      "assignmentId": "asg-b10",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI? 🧨 CẨN THẬN “BẪY QUYỀN”",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Có quyền tự do ngôn luận nghĩa là có thể nói bất cứ điều gì về người khác.\n② Công dân được hưởng quyền nhưng đồng thời phải thực hiện các nghĩa vụ theo quy định.\n③ Khi thực hiện quyền của mình, cần tôn trọng quyền và lợi ích hợp pháp của người khác.\n④ Quyền cơ bản và nghĩa vụ cơ bản của công dân hoàn toàn không liên quan đến nhau.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ ĐÚNG 👍"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Đúng – Sai:\n- ① Sai: Quyền tự do ngôn luận phải trong khuôn khổ pháp luật, không được xúc phạm danh dự, nhân phẩm người khác.\n- ② Đúng: Quyền công dân không tách rời nghĩa vụ công dân.\n- ③ Đúng: Mọi người có nghĩa vụ tôn trọng quyền của người khác.\n- ④ Sai: Quyền và nghĩa vụ có mối quan hệ gắn bó hữu cơ với nhau."
+    },
+    {
+      "id": "q-b10-6",
+      "assignmentId": "asg-b10",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn nói về quyền của mình:\n\n🟢 An: “Mình có quyền học tập và cần thực hiện tốt việc học.”\n🔵 Mai: “Mình có quyền riêng tư nên người khác không được tùy tiện đọc tin nhắn của mình.”\n🟣 Minh: “Khi sử dụng quyền của mình, mình vẫn phải tôn trọng người khác.”\n🔴 Nam: “Đã là quyền của mình thì mình thích sử dụng thế nào cũng được.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Mình có quyền học tập và cần thực hiện tốt việc học.”",
+        "B": "Mai: “Mình có quyền riêng tư nên người khác không được tùy tiện đọc tin nhắn của mình.”",
+        "C": "Minh: “Khi sử dụng quyền của mình, mình vẫn phải tôn trọng người khác.”",
+        "D": "Nam: “Đã là quyền của mình thì mình thích sử dụng thế nào cũng được.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). Nam sai lầm khi nghĩ quyền là tự do vô hạn. Pháp luật quy định: Việc thực hiện quyền công dân không được xâm phạm lợi ích quốc gia, dân tộc và quyền, lợi ích hợp pháp của người khác."
+    },
+    {
+      "id": "q-b10-7",
+      "assignmentId": "asg-b10",
+      "order": 7,
+      "taskName": "🚦 NHIỆM VỤ 7 — “3 VÙNG CÔNG DÂN”",
+      "points": 10,
+      "content": "Kéo 6 hành động vào đúng vùng:\n\n🟢 THỰC HIỆN QUYỀN PHÙ HỢP  |  🔵 THỰC HIỆN NGHĨA VỤ  |  🔴 XÂM PHẠM QUYỀN CỦA NGƯỜI KHÁC\n\nCác hành động:\n(1) 📚 Tham gia học tập đầy đủ.\n(2) 📱 Tự ý mở điện thoại của bạn để đọc tin nhắn.\n(3) 🌱 Bỏ rác đúng nơi và cùng giữ gìn môi trường.\n(4) 🏥 Đi khám khi cần chăm sóc sức khỏe.\n(5) ✉️ Lén đọc thư của người khác vì tò mò.\n(6) ⚖️ Chấp hành các quy định của pháp luật phù hợp với mình.",
+      "options": {
+        "A": "🟢 Thực hiện quyền: (4) · 🔵 Thực hiện nghĩa vụ: (1, 3, 6) · 🔴 Xâm phạm quyền người khác: (2, 5)",
+        "B": "🟢 Thực hiện quyền: (1, 4) · 🔵 Thực hiện nghĩa vụ: (3, 6) · 🔴 Xâm phạm quyền người khác: (2, 5)",
+        "C": "🟢 Thực hiện quyền: (4, 6) · 🔵 Thực hiện nghĩa vụ: (1, 3) · 🔴 Xâm phạm quyền người khác: (2, 5)",
+        "D": "🟢 Thực hiện quyền: (2, 4) · 🔵 Thực hiện nghĩa vụ: (1, 3, 6) · 🔴 Xâm phạm quyền người khác: (5)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác:\n- 🟢 Thực hiện quyền phù hợp: (4) Đi khám khi cần chăm sóc sức khỏe.\n- 🔵 Thực hiện nghĩa vụ: (1) Tham gia học tập đầy đủ; (3) Giữ gìn môi trường; (6) Chấp hành pháp luật.\n- 🔴 Xâm phạm quyền người khác: (2) Tự ý đọc tin nhắn bạn; (5) Lén đọc thư người khác (vi phạm quyền bất khả xâm phạm về thư tín, điện thoại, điện tín)."
+    },
+    {
+      "id": "q-b10-8",
+      "assignmentId": "asg-b10",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 📱 “QUYỀN CỦA TỚ MÀ!”",
+      "points": 15,
+      "content": "Nhóm lớp đang thảo luận trên mạng. Khánh đăng một bức ảnh khiến một bạn trong lớp xấu hổ. Khi được đề nghị gỡ ảnh, Khánh nói: 😎 “Trang cá nhân của mình. Mình có quyền đăng gì thì đăng!”\nTheo em, cách xử lí nào phù hợp nhất?\n\n🔐 CHỐT BÀI TRONG 20 GIÂY — “CÁN CÂN CÔNG DÂN”:\n🟢 QUYỀN: Những lợi ích cơ bản công dân được hưởng ⚖️ 🔵 NGHĨA VỤ: Những việc công dân phải thực hiện.\n🫱 QUYỀN CỦA MÌNH không tách rời 🫲 QUYỀN CỦA NGƯỜI KHÁC.\n➡️ ĐƯỢC HƯỞNG QUYỀN ➔ THỰC HIỆN NGHĨA VỤ ➔ TÔN TRỌNG QUYỀN NGƯỜI KHÁC.",
+      "options": {
+        "A": "Khánh đúng vì đó là tài khoản của Khánh.",
+        "B": "Cứ để ảnh vì chỉ bạn bè trong lớp nhìn thấy.",
+        "C": "Khánh cần xem việc đăng ảnh có ảnh hưởng đến quyền, lợi ích hợp pháp của bạn hay không và xử lí phù hợp.",
+        "D": "Đăng thêm ảnh để chứng minh mình có quyền tự do."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Khánh cần xem việc đăng ảnh có ảnh hưởng đến quyền, lợi ích hợp pháp của bạn hay không và xử lí phù hợp (gỡ ảnh, xin lỗi bạn). Ranh giới pháp lý: Không được lợi dụng mạng xã hội để xúc phạm danh dự, nhân phẩm và quyền riêng tư của người khác."
+    },
+    {
+      "id": "q-b11-1",
+      "assignmentId": "asg-b11",
+      "order": 1,
+      "taskName": "🔎 NHIỆM VỤ 1 — SĂN TÌM QUYỀN",
+      "points": 10,
+      "content": "Chọn 5 điều thuộc quyền cơ bản của trẻ em:\n\n(1) 📚 Được học tập\n(2) 🏥 Được chăm sóc sức khỏe\n(3) 👊 Được bắt nạt bạn yếu hơn\n(4) 🛡️ Được bảo vệ khỏi bạo lực, xâm hại\n(5) 🗣️ Được bày tỏ ý kiến về vấn đề liên quan đến mình\n(6) 🎨 Được vui chơi, giải trí\n(7) 📱 Muốn sử dụng điện thoại bao lâu cũng được\n(8) 😎 Muốn làm gì cũng không cần nghe người lớn",
+      "options": {
+        "A": "(1), (2), (4), (5), (6) — 📚 Được học tập · 🏥 Chăm sóc sức khỏe · 🛡️ Bảo vệ khỏi bạo lực · 🗣️ Bày tỏ ý kiến · 🎨 Vui chơi, giải trí",
+        "B": "(1), (2), (3), (4), (5) — 📚 Được học tập · 🏥 Chăm sóc sức khỏe · 👊 Bắt nạt bạn · 🛡️ Bảo vệ khỏi bạo lực · 🗣️ Bày tỏ ý kiến",
+        "C": "(1), (2), (5), (6), (7) — 📚 Học tập · 🏥 Sức khỏe · 🗣️ Bày tỏ ý kiến · 🎨 Vui chơi · 📱 Dùng điện thoại không giới hạn",
+        "D": "(2), (4), (5), (6), (8) — 🏥 Sức khỏe · 🛡️ Bảo vệ · 🗣️ Bày tỏ ý kiến · 🎨 Vui chơi · 😎 Không cần nghe người lớn"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (2), (4), (5), (6). Đây là các quyền cơ bản của trẻ em theo Luật Trẻ em và Công ước Liên Hợp Quốc về Quyền trẻ em. Các điều (3), (7), (8) là hành vi sai trái hoặc đòi hỏi tùy tiện, không phải quyền của trẻ em."
+    },
+    {
+      "id": "q-b11-2",
+      "assignmentId": "asg-b11",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ 🏠 “4 NGÔI NHÀ QUYỀN TRẺ EM”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào đúng ngôi nhà:\n\n❤️ SỐNG CÒN  |  🛡️ BẢO VỆ  |  🌱 PHÁT TRIỂN  |  🗣️ THAM GIA\n\nCác thẻ:\n(1) 🍚 Được đáp ứng nhu cầu ăn uống cần thiết\n(2) 🚫 Được bảo vệ khỏi bạo lực\n(3) 📚 Được học tập\n(4) 💬 Được bày tỏ ý kiến\n(5) 🏥 Được chăm sóc sức khỏe\n(6) 🔐 Được bảo vệ đời sống riêng tư\n(7) ⚽ Được vui chơi, giải trí\n(8) 🤝 Được tham gia hoạt động phù hợp liên quan đến mình",
+      "options": {
+        "A": "❤️ Sống còn: (1, 5) · 🛡️ Bảo vệ: (2, 6) · 🌱 Phát triển: (3, 7) · 🗣️ Tham gia: (4, 8)",
+        "B": "❤️ Sống còn: (1, 3) · 🛡️ Bảo vệ: (2, 5) · 🌱 Phát triển: (6, 7) · 🗣️ Tham gia: (4, 8)",
+        "C": "❤️ Sống còn: (1, 5) · 🛡️ Bảo vệ: (3, 7) · 🌱 Phát triển: (2, 6) · 🗣️ Tham gia: (4, 8)",
+        "D": "❤️ Sống còn: (2, 6) · 🛡️ Bảo vệ: (1, 5) · 🌱 Phát triển: (3, 7) · 🗣️ Tham gia: (4, 8)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác theo 4 nhóm quyền trẻ em của Luật Trẻ em 2016:\n- ❤️ Quyền sống còn: (1) Ăn uống cần thiết; (5) Chăm sóc sức khỏe.\n- 🛡️ Quyền bảo vệ: (2) Bảo vệ khỏi bạo lực; (6) Bảo vệ đời sống riêng tư.\n- 🌱 Quyền phát triển: (3) Được học tập; (7) Vui chơi, giải trí.\n- 🗣️ Quyền tham gia: (4) Bày tỏ ý kiến; (8) Tham gia hoạt động phù hợp liên quan đến mình."
+    },
+    {
+      "id": "q-b11-3",
+      "assignmentId": "asg-b11",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI “TÌNH HUỐNG ↔ QUYỀN”",
+      "points": 10,
+      "content": "Nối mỗi tình huống với nhóm quyền tương ứng:\n\nTình huống:\nA. Linh bị ốm và được đưa đi khám.\nB. Nam được đến trường học tập.\nC. Mai được phát biểu ý kiến khi lớp chọn hoạt động trải nghiệm.\nD. Một bạn được người lớn giúp đỡ khi có nguy cơ bị bạo lực.\n\n↔️ Quyền:\n① Quyền được bảo vệ\n② Quyền được phát triển\n③ Quyền được tham gia\n④ Quyền được sống còn\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ④ (Quyền sống còn) · B → ② (Quyền phát triển) · C → ③ (Quyền tham gia) · D → ① (Quyền bảo vệ)",
+        "B": "A → ① (Quyền bảo vệ) · B → ② (Quyền phát triển) · C → ③ (Quyền tham gia) · D → ④ (Quyền sống còn)",
+        "C": "A → ④ (Quyền sống còn) · B → ③ (Quyền tham gia) · C → ② (Quyền phát triển) · D → ① (Quyền bảo vệ)",
+        "D": "A → ② (Quyền phát triển) · B → ④ (Quyền sống còn) · C → ③ (Quyền tham gia) · D → ① (Quyền bảo vệ)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–4, B–2, C–3, D–1:\n- A → ④: Khám chữa bệnh khi ốm = Quyền được sống còn.\n- B → ②: Đến trường học tập = Quyền được phát triển.\n- C → ③: Phát biểu ý kiến hoạt động lớp = Quyền được tham gia.\n- D → ①: Được giúp đỡ khi có nguy cơ bị bạo lực = Quyền được bảo vệ."
+    },
+    {
+      "id": "q-b11-4",
+      "assignmentId": "asg-b11",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — GIẢI MÃ “BỘ TỨ QUYỀN”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng vị trí:\n(BẢO VỆ • THAM GIA • SỐNG CÒN • PHÁT TRIỂN)\n\n\"❤️ Được sống và đáp ứng những nhu cầu cơ bản → Quyền được __________ (1)\n🛡️ Không bị bạo lực, bóc lột, xâm hại → Quyền được __________ (2)\n🌱 Được học tập, vui chơi, phát triển năng lực → Quyền được __________ (3)\n🗣️ Được bày tỏ ý kiến về những vấn đề liên quan → Quyền được __________ (4)\"",
+      "options": {
+        "A": "(1) SỐNG CÒN → (2) BẢO VỆ → (3) PHÁT TRIỂN → (4) THAM GIA",
+        "B": "(1) BẢO VỆ → (2) SỐNG CÒN → (3) THAM GIA → (4) PHÁT TRIỂN",
+        "C": "(1) SỐNG CÒN → (2) PHÁT TRIỂN → (3) BẢO VỆ → (4) THAM GIA",
+        "D": "(1) PHÁT TRIỂN → (2) BẢO VỆ → (3) SỐNG CÒN → (4) THAM GIA"
+      },
+      "correctOption": "A",
+      "explanation": "✅ \"Bộ tứ quyền trẻ em\" chuẩn mực SGK GDCD 6:\n- Quyền được SỐNG CÒN: Được sống và đáp ứng các nhu cầu sinh tồn cơ bản.\n- Quyền được BẢO VỆ: Tránh khỏi mọi hình thức bạo lực, bóc lột, xâm hại.\n- Quyền được PHÁT TRIỂN: Được học tập, vui chơi, phát triển năng lực toàn diện.\n- Quyền được THAM GIA: Được bày tỏ ý kiến về các vấn đề liên quan đến trẻ em."
+    },
+    {
+      "id": "q-b11-5",
+      "assignmentId": "asg-b11",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI? 🧨 PHÁ “BẪY TƯ DUY”",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Quyền trẻ em chỉ cần thiết khi trẻ gặp nguy hiểm.\n② Được đi học và vui chơi phù hợp góp phần giúp trẻ phát triển.\n③ Trẻ em có quyền được bảo vệ khỏi bạo lực và xâm hại.\n④ Có quyền bày tỏ ý kiến nghĩa là người khác bắt buộc phải làm theo mọi ý kiến của trẻ.",
+      "options": {
+        "A": "① SAI 👎 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ SAI 👎"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Sai – Đúng – Đúng – Sai:\n- ① Sai: Quyền trẻ em là điều kiện cần thiết hàng ngày để trẻ em phát triển toàn diện thể chất và tinh thần.\n- ② Đúng: Quyền phát triển bao gồm học tập, vui chơi, giải trí lành mạnh.\n- ③ Đúng: Trẻ em có quyền bất khả xâm phạm về thân thể, được pháp luật bảo vệ.\n- ④ Sai: Trẻ có quyền nói lên ý kiến, người lớn lắng nghe và cân nhắc phù hợp với sự phát triển tốt nhất của trẻ."
+    },
+    {
+      "id": "q-b11-6",
+      "assignmentId": "asg-b11",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn nói về quyền trẻ em:\n\n🌱 An: “Mình được học tập để phát triển bản thân.”\n🛡️ Mai: “Nếu bị bạo lực, trẻ em cần được bảo vệ.”\n🗣️ Minh: “Trẻ em có thể bày tỏ ý kiến về những việc có liên quan đến mình.”\n😎 Nam: “Có quyền trẻ em nghĩa là trẻ em thích làm gì cũng được.”\n\n🔍 Ai có suy nghĩ CHƯA HỢP LÍ?",
+      "options": {
+        "A": "An: “Mình được học tập để phát triển bản thân.”",
+        "B": "Mai: “Nếu bị bạo lực, trẻ em cần được bảo vệ.”",
+        "C": "Minh: “Trẻ em có thể bày tỏ ý kiến về những việc có liên quan đến mình.”",
+        "D": "Nam: “Có quyền trẻ em nghĩa là trẻ em thích làm gì cũng được.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). ❌ Sai lầm ở suy nghĩ: \"Có quyền trẻ em nghĩa là thích làm gì cũng được\". Quyền trẻ em không đồng nghĩa với tự do vô kỷ luật; trẻ em vẫn cần có bổn phận vâng lời cha mẹ, tôn trọng thầy cô và chấp hành nội quy, pháp luật."
+    },
+    {
+      "id": "q-b11-7",
+      "assignmentId": "asg-b11",
+      "order": 7,
+      "taskName": "🚦 NHIỆM VỤ 7 — “QUYỀN NÀO ĐANG CẦN ĐƯỢC BẢO ĐẢM?”",
+      "points": 10,
+      "content": "Phân loại 4 tình huống vào nhóm quyền phù hợp nhất:\n\n(1) 🏥 Một bạn nhỏ bị sốt cao cần được chăm sóc y tế.\n(2) 🚨 Một bạn thường xuyên bị người khác đánh và đe dọa.\n(3) 🎨 Một bạn muốn được học, vui chơi và tham gia hoạt động nghệ thuật phù hợp.\n(4) 🗣️ Lớp đang bàn về chuyến trải nghiệm và học sinh được nói lên mong muốn của mình.",
+      "options": {
+        "A": "❤️ Sống còn: (1) · 🛡️ Bảo vệ: (2) · 🌱 Phát triển: (3) · 🗣️ Tham gia: (4)",
+        "B": "❤️ Sống còn: (2) · 🛡️ Bảo vệ: (1) · 🌱 Phát triển: (3) · 🗣️ Tham gia: (4)",
+        "C": "❤️ Sống còn: (1) · 🛡️ Bảo vệ: (3) · 🌱 Phát triển: (2) · 🗣️ Tham gia: (4)",
+        "D": "❤️ Sống còn: (4) · 🛡️ Bảo vệ: (2) · 🌱 Phát triển: (3) · 🗣️ Tham gia: (1)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác:\n- ❤️ Sống còn: (1) Trẻ bị sốt cao cần chăm sóc y tế.\n- 🛡️ Bảo vệ: (2) Bị người khác đánh và đe dọa (cần bảo vệ khỏi bạo lực).\n- 🌱 Phát triển: (3) Học, vui chơi, tham gia hoạt động nghệ thuật.\n- 🗣️ Tham gia: (4) Nói lên mong muốn về chuyến trải nghiệm lớp."
+    },
+    {
+      "id": "q-b11-8",
+      "assignmentId": "asg-b11",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 🎭 “TRẺ EM CÓ QUYỀN NÓI KHÔNG?”",
+      "points": 15,
+      "content": "Gia đình đang bàn về việc chọn một hoạt động ngoại khóa cho Hà. Hà muốn nói lên mong muốn của mình. Một người nói: “Trẻ con thì cứ nghe người lớn quyết định, không cần hỏi ý kiến!”\nCách hiểu nào phù hợp nhất?\n\n🎁 BONUS 5 GIÂY:\n🍚 Nhu cầu thiết yếu để sống ➔ ❤️ SỐNG CÒN\n🚫 Không bị bạo lực ➔ 🛡️ BẢO VỆ\n📚 Được học tập ➔ 🌱 PHÁT TRIỂN\n💬 Được nói lên mong muốn ➔ 🗣️ THAM GIA\n\n🔐 CHỐT BÀI TRONG 20 GIÂY — “BỘ TỨ QUYỀN TRẺ EM”:\n❤️ ĐƯỢC SỐNG · 🛡️ ĐƯỢC AN TOÀN · 🌱 ĐƯỢC LỚN LÊN VÀ PHÁT TRIỂN · 🗣️ ĐƯỢC LẮNG NGHE",
+      "options": {
+        "A": "Người lớn quyết định mọi việc nên trẻ em không cần được nói ý kiến.",
+        "B": "Hà có quyền quyết định tất cả và người lớn bắt buộc phải làm theo.",
+        "C": "Hà có quyền bày tỏ ý kiến về vấn đề liên quan đến mình; ý kiến của Hà cần được lắng nghe phù hợp.",
+        "D": "Hà chỉ được nói ý kiến khi đủ 18 tuổi."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Hà có quyền bày tỏ ý kiến về vấn đề liên quan đến mình; ý kiến của Hà cần được người lớn lắng nghe và tôn trọng phù hợp. Quyền tham gia khẳng định trẻ em là chủ thể có tiếng nói, không phải đối tượng thụ động."
+    },
+    {
+      "id": "q-b12-1",
+      "assignmentId": "asg-b12",
+      "order": 1,
+      "taskName": "🔎 NHIỆM VỤ 1 — AI CÙNG BẢO VỆ EM?",
+      "points": 10,
+      "content": "Chọn 4 lực lượng có trách nhiệm trong việc thực hiện quyền trẻ em:\n\n(1) 👧 Bản thân trẻ em\n(2) 👨👩👧 Gia đình\n(3) 🏫 Nhà trường\n(4) 🌍 Xã hội\n(5) 🎮 Chỉ bạn thân\n(6) 📱 Chỉ mạng xã hội",
+      "options": {
+        "A": "(1), (2), (3), (4) — 👧 Bản thân trẻ em · 👨👩👧 Gia đình · 🏫 Nhà trường · 🌍 Xã hội",
+        "B": "(1), (2), (5), (6) — 👧 Bản thân trẻ em · 👨👩👧 Gia đình · 🎮 Chỉ bạn thân · 📱 Chỉ mạng xã hội",
+        "C": "(2), (3), (4), (6) — 👨👩👧 Gia đình · 🏫 Nhà trường · 🌍 Xã hội · 📱 Chỉ mạng xã hội",
+        "D": "(1), (3), (4), (5) — 👧 Bản thân trẻ em · 🏫 Nhà trường · 🌍 Xã hội · 🎮 Chỉ bạn thân"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án đúng: (1), (2), (3), (4). Bốn lực lượng có trách nhiệm nòng cốt theo Luật Trẻ em gồm: Bản thân trẻ em, Gia đình, Nhà trường và Xã hội. Các phương án (5) và (6) là phiến diện, không đầy đủ."
+    },
+    {
+      "id": "q-b12-2",
+      "assignmentId": "asg-b12",
+      "order": 2,
+      "taskName": "🧩 NHIỆM VỤ 2 — KÉO THẢ “AI LÀM VIỆC GÌ?”",
+      "points": 15,
+      "content": "Kéo mỗi thẻ vào nơi phù hợp nhất:\n\n👧 HỌC SINH  |  👨👩👧 GIA ĐÌNH  |  🏫 NHÀ TRƯỜNG  |  🌍 XÃ HỘI\n\nCác thẻ:\n(1) 📚 Chủ động học tập, rèn luyện\n(2) ❤️ Chăm sóc, nuôi dưỡng trẻ\n(3) 🏫 Xây dựng môi trường học tập an toàn\n(4) ⚖️ Xử lí hành vi xâm phạm quyền trẻ em\n(5) 🗣️ Biết lên tiếng, tìm sự giúp đỡ khi cần\n(6) 🎨 Tạo điều kiện để con học tập, vui chơi phù hợp\n(7) 🛡️ Bảo vệ học sinh khỏi bạo lực học đường\n(8) 📢 Tuyên truyền, thực hiện chính sách bảo vệ trẻ em",
+      "options": {
+        "A": "👧 Học sinh: (1, 5) · 👨👩👧 Gia đình: (2, 6) · 🏫 Nhà trường: (3, 7) · 🌍 Xã hội: (4, 8)",
+        "B": "👧 Học sinh: (1, 2) · 👨👩👧 Gia đình: (5, 6) · 🏫 Nhà trường: (3, 7) · 🌍 Xã hội: (4, 8)",
+        "C": "👧 Học sinh: (1, 5) · 👨👩👧 Gia đình: (3, 7) · 🏫 Nhà trường: (2, 6) · 🌍 Xã hội: (4, 8)",
+        "D": "👧 Học sinh: (4, 8) · 👨👩👧 Gia đình: (2, 6) · 🏫 Nhà trường: (3, 7) · 🌍 Xã hội: (1, 5)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác theo SGK GDCD 6:\n- 👧 Học sinh: (1) Chủ động học tập; (5) Biết lên tiếng tìm giúp đỡ.\n- 👨👩👧 Gia đình: (2) Chăm sóc nuôi dưỡng; (6) Tạo điều kiện học tập, vui chơi.\n- 🏫 Nhà trường: (3) Xây dựng môi trường an toàn; (7) Bảo vệ khỏi bạo lực học đường.\n- 🌍 Xã hội: (4) Xử lí hành vi xâm phạm; (8) Tuyên truyền, thực hiện chính sách bảo vệ trẻ em."
+    },
+    {
+      "id": "q-b12-3",
+      "assignmentId": "asg-b12",
+      "order": 3,
+      "taskName": "🔗 NHIỆM VỤ 3 — NỐI NHANH “TÌNH HUỐNG ↔ TRÁCH NHIỆM”",
+      "points": 10,
+      "content": "Nối tình huống với lực lượng chịu trách nhiệm tương ứng:\n\nTình huống:\nA. Cha mẹ chăm sóc con khi ốm.\nB. Học sinh chăm chỉ học tập và rèn luyện.\nC. Trường xây dựng môi trường không có bạo lực học đường.\nD. Cơ quan có thẩm quyền xử lí người xâm hại trẻ em.\n\n↕️ Trách nhiệm:\n① Học sinh\n② Gia đình\n③ Nhà trường\n④ Xã hội\n\n(A → ?  B → ?  C → ?  D → ?)",
+      "options": {
+        "A": "A → ② (Gia đình) · B → ① (Học sinh) · C → ③ (Nhà trường) · D → ④ (Xã hội)",
+        "B": "A → ① (Học sinh) · B → ② (Gia đình) · C → ③ (Nhà trường) · D → ④ (Xã hội)",
+        "C": "A → ② (Gia đình) · B → ③ (Nhà trường) · C → ① (Học sinh) · D → ④ (Xã hội)",
+        "D": "A → ④ (Xã hội) · B → ① (Học sinh) · C → ③ (Nhà trường) · D → ② (Gia đình)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Nối chính xác: A–2, B–1, C–3, D–4:\n- A → ②: Cha mẹ chăm sóc con = Trách nhiệm của Gia đình.\n- B → ①: Chăm chỉ học tập, rèn luyện = Trách nhiệm của Học sinh.\n- C → ③: Trường học không bạo lực = Trách nhiệm của Nhà trường.\n- D → ④: Cơ quan thẩm quyền xử lí vi phạm = Trách nhiệm của Xã hội."
+    },
+    {
+      "id": "q-b12-4",
+      "assignmentId": "asg-b12",
+      "order": 4,
+      "taskName": "🧠 NHIỆM VỤ 4 — GIẢI MÃ “CÔNG THỨC TRÁCH NHIỆM”",
+      "points": 15,
+      "content": "Kéo 4 từ khóa vào đúng chỗ:\n(GIA ĐÌNH • HỌC SINH • XÃ HỘI • NHÀ TRƯỜNG)\n\n\"👧 __________ (1) chủ động thực hiện quyền và bổn phận của mình.\n👨👩👧 __________ (2) chăm sóc, nuôi dưỡng, giáo dục và bảo vệ trẻ.\n🏫 __________ (3) tạo môi trường học tập an toàn, lành mạnh.\n🌍 __________ (4) bảo đảm quyền trẻ em và xử lí hành vi vi phạm.\"",
+      "options": {
+        "A": "(1) HỌC SINH → (2) GIA ĐÌNH → (3) NHÀ TRƯỜNG → (4) XÃ HỘI",
+        "B": "(1) GIA ĐÌNH → (2) HỌC SINH → (3) NHÀ TRƯỜNG → (4) XÃ HỘI",
+        "C": "(1) HỌC SINH → (2) NHÀ TRƯỜNG → (3) GIA ĐÌNH → (4) XÃ HỘI",
+        "D": "(1) XÃ HỘI → (2) GIA ĐÌNH → (3) NHÀ TRƯỜNG → (4) HỌC SINH"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Hoàn chỉnh theo SGK GDCD 6:\n- 👧 HỌC SINH: Chủ động thực hiện quyền và bổn phận của mình.\n- 👨👩👧 GIA ĐÌNH: Chăm sóc, nuôi dưỡng, giáo dục và bảo vệ trẻ.\n- 🏫 NHÀ TRƯỜNG: Tạo môi trường học tập an toàn, lành mạnh.\n- 🌍 XÃ HỘI: Bảo đảm quyền trẻ em và xử lí hành vi vi phạm."
+    },
+    {
+      "id": "q-b12-5",
+      "assignmentId": "asg-b12",
+      "order": 5,
+      "taskName": "⚡ NHIỆM VỤ 5 — ĐÚNG HAY SAI? 🧨 “BẪY QUYỀN TRẺ EM”",
+      "points": 15,
+      "content": "Xác định tính Đúng 👍 hoặc Sai 👎 cho 4 nhận định sau:\n\n① Có quyền được bảo vệ nên khi gặp nguy hiểm, trẻ em nên tìm người đáng tin cậy để giúp đỡ.\n② Bảo đảm quyền trẻ em hoàn toàn là việc của cha mẹ.\n③ Trẻ em vừa có quyền, vừa cần thực hiện những bổn phận phù hợp với lứa tuổi.\n④ Nếu thấy bạn bị xâm phạm quyền, tốt nhất im lặng vì đó không phải việc của mình.",
+      "options": {
+        "A": "① ĐÚNG 👍 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "B": "① ĐÚNG 👍 · ② ĐÚNG 👍 · ③ ĐÚNG 👍 · ④ SAI 👎",
+        "C": "① SAI 👎 · ② SAI 👎 · ③ ĐÚNG 👍 · ④ ĐÚNG 👍",
+        "D": "① ĐÚNG 👍 · ② SAI 👎 · ③ SAI 👎 · ④ ĐÚNG 👍"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Đáp án: Đúng – Sai – Đúng – Sai:\n- ① Đúng: Khi gặp nguy hiểm, chủ động tìm người đáng tin cậy để được hỗ trợ bảo vệ.\n- ② Sai: Bảo đảm quyền trẻ em là trách nhiệm chung của Gia đình, Nhà trường và Xã hội.\n- ③ Đúng: Quyền luôn đi đôi với bổn phận.\n- ④ Sai: Không nên thờ ơ, im lặng; cần báo cho người lớn đáng tin cậy để kịp thời can thiệp, bảo vệ bạn bè."
+    },
+    {
+      "id": "q-b12-6",
+      "assignmentId": "asg-b12",
+      "order": 6,
+      "taskName": "🕵️ NHIỆM VỤ 6 — TÌM “HẠT SẠN”",
+      "points": 10,
+      "content": "Bốn bạn đưa ra cách xử lí khi thấy một bạn trong lớp thường xuyên bị bắt nạt:\n\n🌱 An: “Mình sẽ báo với thầy cô hoặc người lớn đáng tin cậy.”\n🤝 Mai: “Mình sẽ động viên bạn và tìm cách giúp bạn được hỗ trợ.”\n🛡️ Minh: “Nếu có nguy cơ mất an toàn, cần tìm sự trợ giúp.”\n😎 Nam: “Không liên quan đến mình nên cứ im lặng.”\n\n🔍 Ai có cách nghĩ CHƯA PHÙ HỢP?",
+      "options": {
+        "A": "An: “Mình sẽ báo với thầy cô hoặc người lớn đáng tin cậy.”",
+        "B": "Mai: “Mình sẽ động viên bạn và tìm cách giúp bạn được hỗ trợ.”",
+        "C": "Minh: “Nếu có nguy cơ mất an toàn, cần tìm sự trợ giúp.”",
+        "D": "Nam: “Không liên quan đến mình nên cứ im lặng.”"
+      },
+      "correctOption": "D",
+      "explanation": "✅ Đáp án: Nam (Phương án D). ❌ Hạt sạn: Thờ ơ, im lặng trước bạo lực và hành vi xâm phạm quyền trẻ em. Im lặng có thể khiến bạn tiếp tục bị tổn thương nghiêm trọng hơn."
+    },
+    {
+      "id": "q-b12-7",
+      "assignmentId": "asg-b12",
+      "order": 7,
+      "taskName": "🚦 NHIỆM VỤ 7 — “ĐÈN XANH HAY ĐÈN ĐỎ?”",
+      "points": 10,
+      "content": "Kéo 6 hành động vào đúng vùng:\n\n🟢 THỰC HIỆN/BẢO VỆ QUYỀN TRẺ EM  |  🔴 XÂM PHẠM/CHƯA TÔN TRỌNG QUYỀN TRẺ EM\n\nCác hành động:\n(1) 📚 Tạo điều kiện để trẻ được học tập.\n(2) 👊 Đánh trẻ để “dạy cho nhớ”.\n(3) 🗣️ Lắng nghe ý kiến phù hợp của trẻ về việc liên quan đến trẻ.\n(4) 🚫 Bắt trẻ làm công việc nặng nhọc, quá sức.\n(5) 🛡️ Giúp đỡ khi phát hiện trẻ có nguy cơ bị xâm hại.\n(6) 🔐 Tự ý công khai chuyện riêng tư của trẻ để trêu chọc.",
+      "options": {
+        "A": "🟢 Thực hiện / Bảo vệ quyền: (1, 3, 5) · 🔴 Xâm phạm / Chưa tôn trọng: (2, 4, 6)",
+        "B": "🟢 Thực hiện / Bảo vệ quyền: (1, 2, 5) · 🔴 Xâm phạm / Chưa tôn trọng: (3, 4, 6)",
+        "C": "🟢 Thực hiện / Bảo vệ quyền: (1, 3) · 🔴 Xâm phạm / Chưa tôn trọng: (2, 4, 5, 6)",
+        "D": "🟢 Thực hiện / Bảo vệ quyền: (3, 5) · 🔴 Xâm phạm / Chưa tôn trọng: (1, 2, 4, 6)"
+      },
+      "correctOption": "A",
+      "explanation": "✅ Phân loại chuẩn xác:\n- 🟢 Thực hiện / Bảo vệ quyền (1, 3, 5): Tạo điều kiện học tập; Lắng nghe ý kiến của trẻ; Giúp đỡ khi trẻ có nguy cơ bị xâm hại.\n- 🔴 Xâm phạm quyền (2, 4, 6): Đánh trẻ (bạo lực); Bắt làm việc nặng nhọc (bóc lột sức lao động); Tự ý công khai chuyện riêng tư (xâm phạm quyền bảo vệ đời sống riêng tư)."
+    },
+    {
+      "id": "q-b12-8",
+      "assignmentId": "asg-b12",
+      "order": 8,
+      "taskName": "🏆 NHIỆM VỤ 8 — BOSS LEVEL 📱 “GIỮ BÍ MẬT HAY TÌM NGƯỜI GIÚP?”",
+      "points": 15,
+      "content": "Một người quen nhắn tin khiến Linh cảm thấy sợ hãi và yêu cầu: “Không được kể chuyện này với bố mẹ hay thầy cô!” Linh rất lo nhưng sợ rằng nếu kể với người lớn thì mình là người “không biết giữ bí mật”. Linh nên làm gì?\n\n🔐 CHỐT BÀI TRONG 20 GIÂY — “4 LỚP LÁ CHẮN”:\n👧 BẢN THÂN (Biết quyền – thực hiện bổn phận – biết tìm trợ giúp)\n👨👩👧 GIA ĐÌNH (Chăm sóc – nuôi dưỡng – giáo dục – bảo vệ)\n🏫 NHÀ TRƯỜNG (Giáo dục – chăm sóc – môi trường an toàn)\n🌍 XÃ HỘI (Bảo đảm quyền – bảo vệ – xử lí vi phạm)\n\n🧠 MẬT MÃ AN TOÀN:\nNHẬN RA ➔ KHÔNG IM LẶNG ➔ TÌM NGƯỜI TIN CẬY ➔ NHẬN HỖ TRỢ",
+      "options": {
+        "A": "Giữ kín hoàn toàn vì đã được yêu cầu.",
+        "B": "Tiếp tục nhắn tin để tự giải quyết.",
+        "C": "Tìm người lớn đáng tin cậy để kể lại và nhờ hỗ trợ nhằm bảo vệ mình.",
+        "D": "Đăng toàn bộ câu chuyện lên mạng xã hội để mọi người xử lí giúp."
+      },
+      "correctOption": "C",
+      "explanation": "✅ Lựa chọn tối ưu: C — Tìm người lớn đáng tin cậy để kể lại và nhờ hỗ trợ nhằm bảo vệ mình. Ranh giới bí mật an toàn: Những \"bí mật\" khiến bản thân lo sợ, bất an hoặc bị đe dọa không bao giờ được giữ kín. Chia sẻ với người lớn tin cậy là hành động dũng cảm để tự bảo vệ bản thân."
+    }
+  ],
+  "submissions": [],
+  "settings": {
+    "appName": "Hành trình Công dân nhí - Môn Giáo dục Công dân 6",
+    "slogan": "📚 Học bài • 🧠 Hiểu bài • ✨ Vận dụng • 🌱 Trưởng thành",
+    "adminDisplayName": "CÔ AN NA",
+    "lockImmediatelyOnSubmit": true,
+    "showScoreAfterSubmit": true,
+    "showTimeAfterSubmit": true,
+    "showCorrectCountAfterSubmit": false,
+    "showAnswersAfterSubmit": false,
+    "allowStudentReview": false,
+    "defaultReviewPermission": "LOCKED"
+  },
+  "auditLogs": [
+    {
+      "id": "log-1790602131237-2i0os",
+      "timestamp": "2026-09-28T13:28:51.237Z",
+      "actor": "Cô An Na",
+      "action": "Làm mới toàn bộ danh sách & bài làm",
+      "details": "Đã xóa sạch 2 học sinh và 1 bài làm để sẵn sàng tải danh sách mới của nhà trường"
+    },
+    {
+      "id": "log-1790602131197-ceq22",
+      "timestamp": "2026-09-28T13:28:51.197Z",
+      "actor": "Cô An Na",
+      "action": "Nhập danh sách học sinh",
+      "details": "Nhập thành công 2 học sinh cho lớp 6A8"
+    },
+    {
+      "id": "log-1790602131186-op5d0",
+      "timestamp": "2026-09-28T13:28:51.186Z",
+      "actor": "Cô An Na",
+      "action": "Làm mới toàn bộ danh sách & bài làm",
+      "details": "Đã xóa sạch 25 học sinh và 1 bài làm để sẵn sàng tải danh sách mới của nhà trường"
+    },
+    {
+      "id": "log-1790602131162-vl7xs",
+      "timestamp": "2026-09-28T13:28:51.162Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790602114857-run25",
+      "timestamp": "2026-09-28T13:28:34.857Z",
+      "actor": "Cô An Na",
+      "action": "Nhập danh sách học sinh",
+      "details": "Nhập thành công 0 học sinh cho lớp 6A8"
+    },
+    {
+      "id": "log-1790602114835-eq3w3",
+      "timestamp": "2026-09-28T13:28:34.835Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790511848298-uk5d0",
+      "timestamp": "2026-09-27T12:24:08.298Z",
+      "actor": "Cô An Na",
+      "action": "Xóa vĩnh viễn học sinh",
+      "details": "Xóa vĩnh viễn Trần Thử Nghiệm (6A8) và dọn dẹp các bài nộp liên quan"
+    },
+    {
+      "id": "log-1790511848288-arj4q",
+      "timestamp": "2026-09-27T12:24:08.288Z",
+      "actor": "Cô An Na",
+      "action": "Xóa bài làm",
+      "details": "Đã xóa bài làm của học sinh Trần Thử Nghiệm (6A8) - ❤️✨ Phiếu học tập thông minh: Yêu thương con người"
+    },
+    {
+      "id": "log-1790511848277-zi88t",
+      "timestamp": "2026-09-27T12:24:08.277Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Trần Thử Nghiệm (6A8)"
+    },
+    {
+      "id": "log-1790511848263-gm1ky",
+      "timestamp": "2026-09-27T12:24:08.263Z",
+      "actor": "Cô An Na",
+      "action": "Mở khóa bài tập",
+      "details": "Bài tập ❤️✨ Phiếu học tập thông minh: Yêu thương con người (CD6-B2)"
+    },
+    {
+      "id": "log-1790511848240-nro81",
+      "timestamp": "2026-09-27T12:24:08.240Z",
+      "actor": "Cô An Na",
+      "action": "Khóa bài tập",
+      "details": "Bài tập ❤️✨ Phiếu học tập thông minh: Yêu thương con người (CD6-B2)"
+    },
+    {
+      "id": "log-1790511848207-8gjfd",
+      "timestamp": "2026-09-27T12:24:08.207Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790511523074-aw2pg",
+      "timestamp": "2026-09-27T12:18:43.075Z",
+      "actor": "Khách",
+      "action": "Đăng nhập thất bại",
+      "details": "Thử đăng nhập tài khoản \"coanna\" không thành công từ IP 127.0.0.1"
+    },
+    {
+      "id": "log-1790511522984-5lzpg",
+      "timestamp": "2026-09-27T12:18:42.985Z",
+      "actor": "Khách",
+      "action": "Đăng nhập thất bại",
+      "details": "Thử đăng nhập tài khoản \"coanna\" không thành công từ IP 127.0.0.1"
+    },
+    {
+      "id": "log-1790511522890-qao3o",
+      "timestamp": "2026-09-27T12:18:42.890Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790511508663-xj3ac",
+      "timestamp": "2026-09-27T12:18:28.663Z",
+      "actor": "Cô An Na",
+      "action": "Xóa vĩnh viễn học sinh",
+      "details": "Xóa vĩnh viễn Nguyễn Văn Test (6A8) và dọn dẹp các bài nộp liên quan"
+    },
+    {
+      "id": "log-1790511508655-ztt1s",
+      "timestamp": "2026-09-27T12:18:28.655Z",
+      "actor": "Cô An Na",
+      "action": "Xóa bài làm",
+      "details": "Đã xóa bài làm của học sinh Nguyễn Văn Test (6A8) - 🌳✨ Phiếu học tập thông minh: Tự hào về truyền thống gia đình, dòng họ"
+    },
+    {
+      "id": "log-1790511508634-tisr9",
+      "timestamp": "2026-09-27T12:18:28.634Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Nguyễn Văn Test (6A8)"
+    },
+    {
+      "id": "log-1790511508623-btlho",
+      "timestamp": "2026-09-27T12:18:28.623Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790511508524-o1a3r",
+      "timestamp": "2026-09-27T12:18:28.524Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790511327831-srhxa",
+      "timestamp": "2026-09-27T12:15:27.831Z",
+      "actor": "Cô An Na",
+      "action": "Khóa bài tập",
+      "details": "Bài tập 🚀✨ Phiếu học tập thông minh: Siêng năng, kiên trì"
+    },
+    {
+      "id": "log-1790511325779-2voua",
+      "timestamp": "2026-09-27T12:15:25.779Z",
+      "actor": "Cô An Na",
+      "action": "Khóa bài tập",
+      "details": "Bài tập ❤️✨ Phiếu học tập thông minh: Yêu thương con người"
+    },
+    {
+      "id": "log-1790511317602-j3bsu",
+      "timestamp": "2026-09-27T12:15:17.602Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790511070455-fpunj",
+      "timestamp": "2026-09-27T12:11:10.455Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Lê Minh Khang (6A8)"
+    },
+    {
+      "id": "log-1790511055969-b12",
+      "timestamp": "2026-09-27T12:10:55.970Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 12",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Thực hiện quyền trẻ em\" (Mã: CD6-B12, 8 nhiệm vụ, 100 điểm)"
+    },
+    {
+      "id": "log-1790511012355-7wxm1",
+      "timestamp": "2026-09-27T12:10:12.355Z",
+      "actor": "Cô An Na",
+      "action": "Khóa bài tập",
+      "details": "Bài tập 🚀✨ Phiếu học tập thông minh: Siêng năng, kiên trì"
+    },
+    {
+      "id": "log-1790511010340-4k6e5",
+      "timestamp": "2026-09-27T12:10:10.340Z",
+      "actor": "Cô An Na",
+      "action": "Khóa bài tập",
+      "details": "Bài tập ❤️✨ Phiếu học tập thông minh: Yêu thương con người"
+    },
+    {
+      "id": "log-1790510960679-nzl2e",
+      "timestamp": "2026-09-27T12:09:20.679Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790510913048-5bfm8",
+      "timestamp": "2026-09-27T12:08:33.048Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Dương Thúy Nga (6A8)"
+    },
+    {
+      "id": "log-1790510905751-b11",
+      "timestamp": "2026-09-27T12:08:25.751Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 11",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Quyền cơ bản của trẻ em\" (Mã: CD6-B11, 8 nhiệm vụ, 100 điểm)"
+    },
+    {
+      "id": "log-1790510878317-ab1h8",
+      "timestamp": "2026-09-27T12:07:58.317Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790510754376-fvhu0",
+      "timestamp": "2026-09-27T12:05:54.376Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Phạm Minh Quân (6A8)"
+    },
+    {
+      "id": "log-1790510746745-b10",
+      "timestamp": "2026-09-27T12:05:46.745Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 10",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Quyền và nghĩa vụ cơ bản của công dân\" (Mã: CD6-B10, 8 nhiệm vụ, 100 điểm)"
+    },
+    {
+      "id": "log-1790510644758-8pxw2",
+      "timestamp": "2026-09-27T12:04:04.758Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Bùi Hoàng Long (6A8)"
+    },
+    {
+      "id": "log-1790510638343-b9",
+      "timestamp": "2026-09-27T12:03:58.343Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 9",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Công dân nước CHXHCN Việt Nam\" (Mã: CD6-B9, 8 nhiệm vụ, 100 điểm)"
+    },
+    {
+      "id": "log-1790510354291-1z1g4",
+      "timestamp": "2026-09-27T11:59:14.291Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Nguyễn Thùy Chi (6A8)"
+    },
+    {
+      "id": "log-1790510347935-b8",
+      "timestamp": "2026-09-27T11:59:07.935Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 8",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Tiết kiệm\" (Mã: CD6-B8, 8 thử thách, 100 điểm)"
+    },
+    {
+      "id": "log-1790510031678-b7",
+      "timestamp": "2026-09-27T11:53:51.678Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 7",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Ứng phó với tình huống nguy hiểm\" (Mã: CD6-B7, 8 thử thách, 100 điểm)"
+    },
+    {
+      "id": "log-1790510022510-7y8eo",
+      "timestamp": "2026-09-27T11:53:42.510Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Trần Gia Bảo (6A8)"
+    },
+    {
+      "id": "log-1790510013807-b7",
+      "timestamp": "2026-09-27T11:53:33.807Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 7",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Ứng phó với tình huống nguy hiểm\" (Mã: CD6-B7, 8 thử thách, 100 điểm)"
+    },
+    {
+      "id": "log-1790509742275-zlo93",
+      "timestamp": "2026-09-27T11:49:02.275Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Ngô Khánh Linh (6A8)"
+    },
+    {
+      "id": "log-1790509734979-b6",
+      "timestamp": "2026-09-27T11:48:54.979Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 6",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Tự nhận thức bản thân\" (Mã: CD6-B6, 8 thử thách, 100 điểm)"
+    },
+    {
+      "id": "log-1790509641672-5l5og",
+      "timestamp": "2026-09-27T11:47:21.672Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Đặng Mai Phương (6A8)"
+    },
+    {
+      "id": "log-1790509633860-b5",
+      "timestamp": "2026-09-27T11:47:13.860Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 5",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Tự lập\" (Mã: CD6-B5, 8 thử thách, 100 điểm)"
+    },
+    {
+      "id": "log-1790509500895-b4",
+      "timestamp": "2026-09-27T11:45:00.895Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 4",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Tôn trọng sự thật\" (Mã: CD6-B4, 8 thử thách, 100 điểm)"
+    },
+    {
+      "id": "log-1790509404111-b3",
+      "timestamp": "2026-09-27T11:43:24.111Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 3",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Siêng năng, kiên trì\" (Mã: CD6-B3, 8 nhiệm vụ, 100 điểm)"
+    },
+    {
+      "id": "log-1790509353120-6zell",
+      "timestamp": "2026-09-27T11:42:33.120Z",
+      "actor": "Cô An Na",
+      "action": "Khóa bài tập",
+      "details": "Bài tập ❤️✨ Phiếu học tập thông minh: Yêu thương con người"
+    },
+    {
+      "id": "log-1790509248269-37jza",
+      "timestamp": "2026-09-27T11:40:48.270Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790509074134-b2",
+      "timestamp": "2026-09-27T11:37:54.134Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập Bài 2",
+      "details": "Tạo bài tập \"Phiếu học tập thông minh: Yêu thương con người\" (Mã: CD6-B2, 8 nhiệm vụ, 100 điểm)"
+    },
+    {
+      "id": "log-1790508358362-w8gty",
+      "timestamp": "2026-09-27T11:25:58.363Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790508287611-7cjd1",
+      "timestamp": "2026-09-27T11:24:47.611Z",
+      "actor": "Cô An Na",
+      "action": "Làm mới 12 bài học",
+      "details": "Xóa toàn bộ bài tập và làm trống 12 ô bài học để tải bài mới"
+    },
+    {
+      "id": "log-1790508279323-v525d",
+      "timestamp": "2026-09-27T11:24:39.323Z",
+      "actor": "Cô An Na",
+      "action": "Tải lên bài tập mới",
+      "details": "Tạo bài tập \"🌳 Phiếu học tập thông minh: Tự hào về truyền thống gia đình, dòng họ\" (Mã: CD6-B1)"
+    },
+    {
+      "id": "log-1790508273536-5skt2",
+      "timestamp": "2026-09-27T11:24:33.536Z",
+      "actor": "Cô An Na",
+      "action": "Làm mới 12 bài học",
+      "details": "Xóa toàn bộ bài tập và làm trống 12 ô bài học để tải bài mới"
+    },
+    {
+      "id": "log-1790508270072-k7tpm",
+      "timestamp": "2026-09-27T11:24:30.072Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1790507501781-dld2m",
+      "timestamp": "2026-09-27T11:11:41.781Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1789746756799-q7049",
+      "timestamp": "2026-09-18T15:52:36.799Z",
+      "actor": "Cô An Na",
+      "action": "Chỉnh sửa bài học",
+      "details": "Cập nhật Bài 1: Tự hào về truyền thống gia đình, dòng họ"
+    },
+    {
+      "id": "log-1789746729894-rmwdy",
+      "timestamp": "2026-09-18T15:52:09.894Z",
+      "actor": "Cô An Na",
+      "action": "Chỉnh sửa bài học",
+      "details": "Cập nhật Bài 1: 1: Tự hào về truyền thống gia đình, dòng họ"
+    },
+    {
+      "id": "log-1789746713248-bqjnb",
+      "timestamp": "2026-09-18T15:51:53.248Z",
+      "actor": "Cô An Na",
+      "action": "Chỉnh sửa bài học",
+      "details": "Cập nhật Bài 1: Bài 1: Tự hào về truyền thống gia đình, dòng họ"
+    },
+    {
+      "id": "log-1789746679995-vw9jx",
+      "timestamp": "2026-09-18T15:51:19.995Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1789745945386-mguea",
+      "timestamp": "2026-09-18T15:39:05.386Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1789745864456-7w6io",
+      "timestamp": "2026-09-18T15:37:44.456Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1789744024035-22jn0",
+      "timestamp": "2026-09-18T15:07:04.035Z",
+      "actor": "Cô An Na",
+      "action": "Thêm học sinh",
+      "details": "Thêm mới học sinh Trần Bảo Nam (6A8)"
+    },
+    {
+      "id": "log-1789744014533-ffpyx",
+      "timestamp": "2026-09-18T15:06:54.533Z",
+      "actor": "CÔ AN NA",
+      "action": "Đăng nhập thành công",
+      "details": "Cô An Na đăng nhập vào hệ thống"
+    },
+    {
+      "id": "log-1789743952733-1ni48",
+      "timestamp": "2026-09-18T15:05:52.733Z",
+      "actor": "Khách",
+      "action": "Đăng nhập thất bại",
+      "details": "Thử đăng nhập tài khoản \"coanna\" không thành công từ IP 127.0.0.1"
+    },
+    {
+      "id": "log-init",
+      "timestamp": "2026-09-18T07:30:00.000Z",
+      "actor": "Hệ thống",
+      "action": "Khởi tạo hệ thống",
+      "details": "Khởi động ứng dụng Hành trình Công dân nhí GDCD 6 với 5 lớp 6A8-6A12"
+    }
+  ]
+}

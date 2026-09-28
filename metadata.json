@@ -1,0 +1,7 @@
+{
+  "name": "Hành trình Công dân nhí - GDCD 6",
+  "description": "Ứng dụng học tập và kiểm tra môn Giáo dục Công dân 6 sinh động, hiện đại dành cho học sinh THCS Tân Hải và giáo viên quản lý lớp học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
